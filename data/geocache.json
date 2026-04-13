@@ -1,1 +1,502 @@
-{}
+{
+  "Philharmonie de Paris, Paris, France": {
+    "lat": 48.8919213,
+    "lng": 2.3941386
+  },
+  "Église Saint-Sulpice, Paris, France": {
+    "lat": 48.8509871,
+    "lng": 2.3348702
+  },
+  "Le Grand Rex, Paris, France": {
+    "lat": 48.8705334,
+    "lng": 2.3476486
+  },
+  "Starbucks Capucines, Paris, France": {
+    "lat": 48.8706901,
+    "lng": 2.3335642
+  },
+  "Lavatory de la Madeleine, Paris, France": {
+    "lat": 48.8694836,
+    "lng": 2.3247334
+  },
+  "Kiosque des Noctambules, Paris, France": {
+    "lat": 48.8631256,
+    "lng": 2.3360877
+  },
+  "Folies Bergère, Paris, France": {
+    "lat": 48.8741222,
+    "lng": 2.3448869
+  },
+  "Université Paris-Nanterre, Paris, France": {
+    "lat": 48.9058244,
+    "lng": 2.2093183
+  },
+  "Café de Flore, Paris, France": {
+    "lat": 48.8541444,
+    "lng": 2.3326307
+  },
+  "L'Écume des Pages, Paris, France": {
+    "lat": 48.8541851,
+    "lng": 2.332411
+  },
+  "Place Louis Aragon, Paris, France": {
+    "lat": 48.8535351,
+    "lng": 2.3531477
+  },
+  "Prison de la Santé, Paris, France": {
+    "lat": 48.8338827,
+    "lng": 2.339744
+  },
+  "Les Deux Magots, Paris, France": {
+    "lat": 48.854069,
+    "lng": 2.3330634
+  },
+  "Lycée Henri-IV, Paris, France": {
+    "lat": 48.8463278,
+    "lng": 2.3476373
+  },
+  "École Normale Supérieure, Paris, France": {
+    "lat": 48.8417072,
+    "lng": 2.3447923
+  },
+  "Brasserie Lipp, Paris, France": {
+    "lat": 48.8537528,
+    "lng": 2.3324105
+  },
+  "Passage de Clichy, Paris, France": {
+    "lat": 48.8843262,
+    "lng": 2.3279125
+  },
+  "Rue Denoyez, Paris, France": {
+    "lat": 48.8716515,
+    "lng": 2.3785163
+  },
+  "Casino de Paris, Paris, France": {
+    "lat": 48.8784442,
+    "lng": 2.3305095
+  },
+  "Café Pli, Paris, France": {
+    "lat": 48.8691529,
+    "lng": 2.3687512
+  },
+  "Hôtel Salomon de Rothschild, Paris, France": {
+    "lat": 48.8752152,
+    "lng": 2.3031346
+  },
+  "Rue Crémieux, Paris, France": {
+    "lat": 48.8468799,
+    "lng": 2.3708677
+  },
+  "Place de la Nation, Paris, France": {
+    "lat": 48.8483734,
+    "lng": 2.3958703
+  },
+  "Mètre-Étalon, Paris, France": {
+    "lat": 48.8677594,
+    "lng": 2.3287383
+  },
+  "Place de l'Abbé Georges Hénocque, Paris, France": {
+    "lat": 48.8240309,
+    "lng": 2.3532114
+  },
+  "21 Place des Vosges, Paris, France": {
+    "lat": 48.8564137,
+    "lng": 2.3649432
+  },
+  "McDonald’s, Paris, France": {
+    "lat": 48.8689587,
+    "lng": 2.3676791
+  },
+  "Tour de la Liberté, Paris, France": {
+    "lat": 48.8511433,
+    "lng": 2.3616808
+  },
+  "Passage Saint-Maur, Paris, France": {
+    "lat": 48.8637843,
+    "lng": 2.3785083
+  },
+  "Hôtel de Sens, Paris, France": {
+    "lat": 48.8535251,
+    "lng": 2.3587512
+  },
+  "39 Rue du Château d'Eau, Paris, France": {
+    "lat": 48.8713426,
+    "lng": 2.3578449
+  },
+  "146 Rue Montmartre, Paris, France": {
+    "lat": 48.869254,
+    "lng": 2.343228
+  },
+  "Quai de la Mégisserie, Paris, France": {
+    "lat": 48.8573689,
+    "lng": 2.3466011
+  },
+  "65 Rue Pascal, Paris, France": {
+    "lat": 48.8345653,
+    "lng": 2.3478964
+  },
+  "Rue Racine, Paris, France": {
+    "lat": 48.8501441,
+    "lng": 2.3413151
+  },
+  "Avenue de l'Observatoire, Paris, France": {
+    "lat": 48.8408028,
+    "lng": 2.3369739
+  },
+  "25 Rue Notre-Dame-de-Nazareth, Paris, France": {
+    "lat": 48.8672598,
+    "lng": 2.3592501
+  },
+  "Roberto, Paris, France": {
+    "lat": 48.8631497,
+    "lng": 2.3645335
+  },
+  "29 Bd Haussmann, Paris, France": {
+    "lat": 48.8729499,
+    "lng": 2.3322343
+  },
+  "La REcyclerie, Paris, France": {
+    "lat": 48.8976218,
+    "lng": 2.3440598
+  },
+  "3 Bd des Capucines, Paris, France": {
+    "lat": 48.8707028,
+    "lng": 2.3335596
+  },
+  "Impasse des Arbalétriers, Paris, France": {
+    "lat": 48.8585228,
+    "lng": 2.3595586
+  },
+  "12 Boulevard Saint-Germain, Paris, France": {
+    "lat": 48.8495636,
+    "lng": 2.354708
+  },
+  "16 Bd Edgar Quinet, Paris, France": {
+    "lat": 48.8400018,
+    "lng": 2.3288627
+  },
+  "51 Rue de Montmorency, Paris, France": {
+    "lat": 48.8635382,
+    "lng": 2.3531397
+  },
+  "8 Rue Galvani, Paris, France": {
+    "lat": 48.8841208,
+    "lng": 2.2917392
+  },
+  "10 Rue de l'Éperon, Paris, France": {
+    "lat": 48.8527063,
+    "lng": 2.3406047
+  },
+  "28 Rue du Cardinal Lemoine, Paris, France": {
+    "lat": 48.8479749,
+    "lng": 2.3530374
+  },
+  "Hôtel Lauzun, Paris, France": {
+    "lat": 48.8515491,
+    "lng": 2.3588146
+  },
+  "Rue des Degrés, Paris, France": {
+    "lat": 48.8693971,
+    "lng": 2.3506599
+  },
+  "172 Boulevard Saint-Germain, Paris, France": {
+    "lat": 48.8541278,
+    "lng": 2.3325499
+  },
+  "13 Rue de l'Ancienne Comédie, 75006 Paris": {
+    "lat": 48.8530058,
+    "lng": 2.3387359
+  },
+  "Stohrer, Paris, France": {
+    "lat": 48.8652493,
+    "lng": 2.3468171
+  },
+  "Rue Eugène Sue, Paris, France": {
+    "lat": 48.8912159,
+    "lng": 2.3471565
+  },
+  "Café La Roseraie, Paris, France": {
+    "lat": 48.8275646,
+    "lng": 2.3713331
+  },
+  "Square René Viviani, Paris, France": {
+    "lat": 48.8521218,
+    "lng": 2.3475389
+  },
+  "Mètre étalon, Paris, France": {
+    "lat": 48.8677594,
+    "lng": 2.3287383
+  },
+  "25 Rue Jenner, Paris, France": {
+    "lat": 48.8349602,
+    "lng": 2.3626066
+  },
+  "9 Rue Aubry le Boucher, Paris, France": {
+    "lat": 48.8603522,
+    "lng": 2.350205
+  },
+  "4 Rue Rollin, Paris, France": {
+    "lat": 48.8445895,
+    "lng": 2.3518095
+  },
+  "151 Boulevard Saint-Germain, Paris, France": {
+    "lat": 48.8537528,
+    "lng": 2.3324105
+  },
+  "Rue du Chat Qui Pêche, Paris, France": {
+    "lat": 48.853033,
+    "lng": 2.3461033
+  },
+  "Belvédère de Belleville, Paris, France": {
+    "lat": 48.8715819,
+    "lng": 2.3853213
+  },
+  "Rue Eugène Poubelle, Paris, France": {
+    "lat": 48.8504338,
+    "lng": 2.278202
+  },
+  "7 Rue Sainte-Anne, Paris, France": {
+    "lat": 48.8657771,
+    "lng": 2.3351824
+  },
+  "30 Rue Montmartre, Paris, France": {
+    "lat": 48.8643796,
+    "lng": 2.3454744
+  },
+  "36 Rue Jean de la Fontaine, Paris, France": {
+    "lat": 48.8512479,
+    "lng": 2.2724483
+  },
+  "4 Rue Garancière, Paris, France": {
+    "lat": 48.8506255,
+    "lng": 2.3357287
+  },
+  "90 Bd de Port-Royal, Paris, France": {
+    "lat": 48.8394279,
+    "lng": 2.3382821
+  },
+  "200 Rue Saint-Martin, Paris, France": {
+    "lat": 48.8642794,
+    "lng": 2.3530398
+  },
+  "1 Rue Chapon, Paris, France": {
+    "lat": 48.8628618,
+    "lng": 2.357667
+  },
+  "Place du Général Catroux, Paris, France": {
+    "lat": 48.8821165,
+    "lng": 2.311499
+  },
+  "Rue du Vieux-Colombier, Paris, France": {
+    "lat": 48.8518028,
+    "lng": 2.3304753
+  },
+  "La Rotonde, Paris, France": {
+    "lat": 48.8423598,
+    "lng": 2.3292123
+  },
+  "31 Rue de Tournon, Paris, France": {
+    "lat": 48.8497061,
+    "lng": 2.3374487
+  },
+  "145 Rue La Fayette, Paris, France": {
+    "lat": 48.87917,
+    "lng": 2.3561426
+  },
+  "148 Rue Saint-Honoré, Paris, France": {
+    "lat": 48.8619667,
+    "lng": 2.3403232
+  },
+  "10 Rue de la Grande Chaumière, Paris, France": {
+    "lat": 48.8423247,
+    "lng": 2.3306895
+  },
+  "31 Rue du Pont Neuf, Paris, France": {
+    "lat": 48.8612324,
+    "lng": 2.3448351
+  },
+  "Place de l’Institut, Paris, France": {
+    "lat": 48.8575256,
+    "lng": 2.3371378
+  },
+  "Cour du Commerce Saint-André, Paris, France": {
+    "lat": 48.8527346,
+    "lng": 2.3391114
+  },
+  "70 Rue de Vaugirard, Paris, France": {
+    "lat": 48.8485522,
+    "lng": 2.3302971
+  },
+  "27 Rue Bergère, Paris, France": {
+    "lat": 48.8724603,
+    "lng": 2.3444016
+  },
+  "29 Rue Quincampoix, Paris, France": {
+    "lat": 48.8608983,
+    "lng": 2.3504541
+  },
+  "Rue Servandoni, Paris, France": {
+    "lat": 48.8499009,
+    "lng": 2.3347473
+  },
+  "Musée de la Vie Romantique, Paris, France": {
+    "lat": 48.8813455,
+    "lng": 2.3335217
+  },
+  "8 Rue de la Grande Chaumière, Paris, France": {
+    "lat": 48.8423885,
+    "lng": 2.3308482
+  },
+  "174 Rue du Faubourg Saint-Denis, Paris, France": {
+    "lat": 48.8801267,
+    "lng": 2.3576241
+  },
+  "1 Quai Voltaire, Paris, France": {
+    "lat": 48.858245,
+    "lng": 2.3329353
+  },
+  "Le Dôme Café, Paris, France": {
+    "lat": 48.8576592,
+    "lng": 2.3004661
+  },
+  "Kodawari Ramen Tsukiji, Paris, France": {
+    "lat": 48.8643846,
+    "lng": 2.3362784
+  },
+  "5 bis Rue de Verneuil, Paris, France": {
+    "lat": 48.8571954,
+    "lng": 2.3316056
+  },
+  "Héliport de Paris, Paris, France": {
+    "lat": 48.8371608,
+    "lng": 2.3613411
+  },
+  "1 Rue des Ursins, Paris, France": {
+    "lat": 48.8538719,
+    "lng": 2.3516138
+  },
+  "141 Boulevard Diderot, Paris, France": {
+    "lat": 48.8482859,
+    "lng": 2.393763
+  },
+  "44 Rue d’Aboukir, Paris, France": {
+    "lat": 48.8672066,
+    "lng": 2.3453327
+  },
+  "2 Rue des Écoles, Paris, France": {
+    "lat": 48.8476521,
+    "lng": 2.3524609
+  },
+  "15 Rue du Bac, Paris, France": {
+    "lat": 48.8584268,
+    "lng": 2.3285474
+  },
+  "14 Rue Duvergier, Paris, France": {
+    "lat": 48.889572,
+    "lng": 2.376712
+  },
+  "Palais Royal, Paris, France": {
+    "lat": 48.8635847,
+    "lng": 2.3362042
+  },
+  "72 Rue de Belleville, Paris, France": {
+    "lat": 48.8735093,
+    "lng": 2.3837939
+  },
+  "Église Saint-Joseph-des-Carmes, Paris, France": {
+    "lat": 48.8485522,
+    "lng": 2.3302971
+  },
+  "54 Rue des Petites Écuries, Paris, France": {
+    "lat": 48.8740112,
+    "lng": 2.3487872
+  },
+  "Rue Férou, Paris, France": {
+    "lat": 48.8495676,
+    "lng": 2.3340229
+  },
+  "Fontaine Saint-Sulpice, Paris, France": {
+    "lat": 48.8508692,
+    "lng": 2.3332775
+  },
+  "3 Rue de l’Aqueduc, Paris, France": {
+    "lat": 48.8797553,
+    "lng": 2.3581492
+  },
+  "135 Rue Saint-Denis, Paris, France": {
+    "lat": 48.8638944,
+    "lng": 2.3499349
+  },
+  "47 Rue Descartes, Paris, France": {
+    "lat": 48.8452094,
+    "lng": 2.3491753
+  },
+  "25 Rue de Vaugirard, Paris, France": {
+    "lat": 48.8484067,
+    "lng": 2.3318163
+  },
+  "101 Rue Saint-Antoine, Paris, France": {
+    "lat": 48.8548774,
+    "lng": 2.3613812
+  },
+  "6 Place des Vosges, Paris, France": {
+    "lat": 48.854799,
+    "lng": 2.3661358
+  },
+  "8 Rue Amyot, Paris, France": {
+    "lat": 48.8435385,
+    "lng": 2.3474881
+  },
+  "53 Rue des Archives, Paris, France": {
+    "lat": 48.0736008,
+    "lng": -0.7591048
+  },
+  "78 Rue la Condamine, Paris, France": {
+    "lat": 48.884893,
+    "lng": 2.320365
+  },
+  "172 Rue Saint-Jacques, Paris, France": {
+    "lat": 48.8466268,
+    "lng": 2.3431181
+  },
+  "La Ruche, Paris, France": {
+    "lat": 48.8324196,
+    "lng": 2.2968293
+  },
+  "Au Vieux Paris d'Arcole, Paris, France": {
+    "lat": 48.8542243,
+    "lng": 2.3502715
+  },
+  "Rue des Marmousets, Paris, France": {
+    "lat": 48.8360544,
+    "lng": 2.3502079
+  },
+  "Square Rapp, Paris, France": {
+    "lat": 48.8587158,
+    "lng": 2.3007988
+  },
+  "Place Dalida / Rue Girardon, Paris, France": {
+    "lat": 48.8885139,
+    "lng": 2.3381027
+  },
+  "Rue de l'Université, Paris, France": {
+    "lat": 48.8603101,
+    "lng": 2.3208887
+  },
+  "Petit Palais, Paris, France": {
+    "lat": 48.866042,
+    "lng": 2.3153496
+  },
+  "Pont de Bir-Hakeim, Paris, France": {
+    "lat": 48.8557254,
+    "lng": 2.2875477
+  },
+  "Grande Mosquée de Paris, Paris, France": {
+    "lat": 48.8420709,
+    "lng": 2.3551029
+  },
+  "Pont de Bercy, Paris, France": {
+    "lat": 48.8380509,
+    "lng": 2.3748808
+  }
+}

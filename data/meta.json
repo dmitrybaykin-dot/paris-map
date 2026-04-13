@@ -1,8 +1,8 @@
 {
-  "last_sync": "2026-04-13T09:17:48.550Z",
+  "last_sync": "2026-04-13T09:32:01.930Z",
   "total_pages": 169,
-  "on_map": 0,
-  "cache_hits": 0,
-  "freshly_geocoded": 0,
-  "missing": 169
+  "on_map": 127,
+  "cache_hits": 2,
+  "freshly_geocoded": 125,
+  "failed": 42
 }
