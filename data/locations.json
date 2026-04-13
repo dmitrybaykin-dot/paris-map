@@ -4,7 +4,7 @@
     "name": "Philharmonie de Paris — Jean Nouvel building",
     "lat": 48.8919213,
     "lng": 2.3941386,
-    "address": "Philharmonie de Paris",
+    "address": "",
     "type": "Photo session spot",
     "tags": [],
     "summary": "Futuristic silver architecture at Parc de la Villette.",
@@ -17,7 +17,7 @@
     "name": "Église Saint-Sulpice — Holy Water Stoups",
     "lat": 48.8509871,
     "lng": 2.3348702,
-    "address": "Église Saint-Sulpice",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [
       "Latin Quarter"
@@ -32,7 +32,7 @@
     "name": "Le Grand Rex",
     "lat": 48.8705334,
     "lng": 2.3476486,
-    "address": "Le Grand Rex",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [],
     "summary": "Europe's largest cinema (3,300 seats), opened December 8, 1932 during the Great Depression. Art Deco building by architect Auguste Bluysen, 32m tall with iconic 2.5m REX letters. Interior designed as an open-air Mediterranean theatre with a starry night ceiling. Used as a Nazi 'Soldatenkino' during WWII. Home to one of France's first escalators (1957) and its largest screen at the time (25×12m, premiered Luc Besson's The Big Blue in 1988). Today hosts films, club nights, escape rooms, and backstage tours.",
@@ -45,7 +45,7 @@
     "name": "Starbucks Capucines — Most Beautiful in Paris",
     "lat": 48.8706901,
     "lng": 2.3335642,
-    "address": "Starbucks Capucines",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "#themost"
@@ -60,7 +60,7 @@
     "name": "Lavatory de la Madeleine — Most Beautiful Public Toilet",
     "lat": 48.8694836,
     "lng": 2.3247334,
-    "address": "Lavatory de la Madeleine",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -75,7 +75,7 @@
     "name": "Kiosque des Noctambules — Métro Palais-Royal",
     "lat": 48.8631256,
     "lng": 2.3360877,
-    "address": "Kiosque des Noctambules",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "#themost"
@@ -90,7 +90,7 @@
     "name": "Folies Bergère",
     "lat": 48.8741222,
     "lng": 2.3448869,
-    "address": "Folies Bergère",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [],
     "summary": "Paris's first variety theatre, opened in 1869 and thriving by the 1920s — still operating today. Famous for spectacular shows with feathered dancers accessible only to wealthy audiences. Performers over the years included Mata Hari, Isadora Duncan, Josephine Baker, and Russian ballerinas Yulia Sedova and Elizaveta Nikolskaya (Lila Nicolska). The 1929 Art Deco facade was designed by artist-architect Maurice Picaud (Pico), with Lila Nicolska as the model for its central composition.",
@@ -103,7 +103,7 @@
     "name": "Université Paris-Nanterre",
     "lat": 48.9058244,
     "lng": 2.2093183,
-    "address": "Université Paris-Nanterre",
+    "address": "",
     "type": "Historical event",
     "tags": [],
     "summary": "Birthplace of May '68. Base of operations for Daniel Cohn-Bendit ('Dany le Rouge') and the student movement that ignited the revolt against the Gaullist state.",
@@ -116,7 +116,7 @@
     "name": "Café de Flore",
     "lat": 48.8541444,
     "lng": 2.3326307,
-    "address": "Café de Flore",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [],
     "summary": "Daily HQ of Sartre & Simone de Beauvoir from 1942 onwards; the beating heart of Parisian intellectual and existentialist life in the 1950s–60s.",
@@ -129,7 +129,7 @@
     "name": "L'Écume des Pages",
     "lat": 48.8541851,
     "lng": 2.332411,
-    "address": "L'Écume des Pages",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [],
     "summary": "Late-night bookshop (open until midnight) on the Saint-Germain writers' strip, right next to Flore & Deux Magots — perfect after an evening spent near Sartre or Queneau.",
@@ -142,7 +142,7 @@
     "name": "Place Louis Aragon",
     "lat": 48.8535351,
     "lng": 2.3531477,
-    "address": "Place Louis Aragon",
+    "address": "",
     "type": "Person lived here",
     "tags": [],
     "summary": "A small square on the Île Saint-Louis overlooking the Seine, named in honor of Louis Aragon. It evokes the Parisian wanderings celebrated in his novel Paysan de Paris, and is one of the rare public spaces in Paris dedicated to a surrealist poet.",
@@ -155,7 +155,7 @@
     "name": "Prison de la Santé",
     "lat": 48.8338827,
     "lng": 2.339744,
-    "address": "Prison de la Santé",
+    "address": "",
     "type": "Crime",
     "tags": [
       "#themost"
@@ -170,7 +170,7 @@
     "name": "Les Deux Magots",
     "lat": 48.854069,
     "lng": 2.3330634,
-    "address": "Les Deux Magots",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [],
     "summary": "Quieter alternative to Café de Flore, surrealist haunt of the 1930s, home of the rival 'Les Deux Magots' literary prize. Simone de Beauvoir worked here regularly.",
@@ -183,7 +183,7 @@
     "name": "Lycée Henri-IV",
     "lat": 48.8463278,
     "lng": 2.3476373,
-    "address": "Lycée Henri-IV",
+    "address": "",
     "type": "Historical event",
     "tags": [
       "Latin Quarter"
@@ -198,7 +198,7 @@
     "name": "École Normale Supérieure",
     "lat": 48.8417072,
     "lng": 2.3447923,
-    "address": "École Normale Supérieure",
+    "address": "",
     "type": "Historical event",
     "tags": [
       "Latin Quarter"
@@ -213,7 +213,7 @@
     "name": "Brasserie Lipp",
     "lat": 48.8537528,
     "lng": 2.3324105,
-    "address": "Brasserie Lipp",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [],
     "summary": "Hierarchical brasserie with 'heaven/purgatory/hell' seating tiers. Politicians dined here — Mitterrand had table #1. Scene of the 1965 disappearance of Moroccan dissident Ben Barka.",
@@ -226,7 +226,7 @@
     "name": "Passage de Clichy – Brassaï ",
     "lat": 48.8843262,
     "lng": 2.3279125,
-    "address": "Passage de Clichy",
+    "address": "",
     "type": "Old photo",
     "tags": [],
     "summary": "In 1933, Brassaï released Paris by Night, a series of dark, moody street scenes lit by gas lamps. Ordinary moments turned eerie and surreal, like in Passage de Clichy.",
@@ -239,7 +239,7 @@
     "name": "Rue Denoyez",
     "lat": 48.8716515,
     "lng": 2.3785163,
-    "address": "Rue Denoyez",
+    "address": "",
     "type": "Photo session spot",
     "tags": [],
     "summary": "A short pedestrian alley in Belleville entirely given over to street art since the 1990s. Every wall, shutter, door and downpipe is covered in constantly-changing murals. One of the last surviving legal graffiti zones in Paris — and one of its most visually dense. The walls repaint themselves every few weeks.",
@@ -252,7 +252,7 @@
     "name": "Casino de Paris",
     "lat": 48.8784442,
     "lng": 2.3305095,
-    "address": "Casino de Paris",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [
       "9e"
@@ -267,7 +267,7 @@
     "name": "Café Pli — Temple",
     "lat": 48.8691529,
     "lng": 2.3687512,
-    "address": "Café Pli",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "Marais"
@@ -282,7 +282,7 @@
     "name": "Hôtel Salomon de Rothschild — Assassination of President Doumer",
     "lat": 48.8752152,
     "lng": 2.3031346,
-    "address": "Hôtel Salomon de Rothschild",
+    "address": "",
     "type": "Crime",
     "tags": [],
     "summary": "On May 6, 1932, President Paul Doumer attended a book fair here honouring WWI veteran writers. Russian émigré Pavel Gorguloff — a mentally unstable nationalist who blamed France for not fighting Bolshevism — fired three shots, fatally wounding the president. Doumer died the next day, the only French president assassinated in the 20th century. Gorguloff was guillotined on September 14, 1932. The affair deepened French anxieties about political violence from émigré communities.",
@@ -295,7 +295,7 @@
     "name": "Rue Crémieux",
     "lat": 48.8468799,
     "lng": 2.3708677,
-    "address": "Rue Crémieux",
+    "address": "",
     "type": "Photo session spot",
     "tags": [
       "#themost"
@@ -310,7 +310,7 @@
     "name": "Place de la Nation — Guillotine Site of the Terror",
     "lat": 48.8483734,
     "lng": 2.3958703,
-    "address": "Place de la Nation",
+    "address": "",
     "type": "Crime",
     "tags": [
       "#themost"
@@ -325,7 +325,7 @@
     "name": "Mètre-Étalon — Place Vendôme",
     "lat": 48.8677594,
     "lng": 2.3287383,
-    "address": "Mètre-Étalon",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -340,7 +340,7 @@
     "name": "Place de l'Abbé Georges Hénocque — Crime Location",
     "lat": 48.8240309,
     "lng": 2.3532114,
-    "address": "Place de l'Abbé Georges Hénocque",
+    "address": "",
     "type": "Crime",
     "tags": [],
     "summary": "Crime location in the 13th arrondissement. Near Rue Jenner and the Salpêtrière hospital quarter. Specific case details to be researched.",
@@ -353,7 +353,7 @@
     "name": "21 Place des Vosges — Duelling Ground",
     "lat": 48.8564137,
     "lng": 2.3649432,
-    "address": "21 Place des Vosges",
+    "address": "",
     "type": "Crime",
     "tags": [
       "Marais"
@@ -368,7 +368,7 @@
     "name": "McDonald’s — Most Beautiful in Paris",
     "lat": 48.8689587,
     "lng": 2.3676791,
-    "address": "McDonald’s",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "9e"
@@ -383,7 +383,7 @@
     "name": "Tour de la Liberté — Bastille Remnant",
     "lat": 48.8511433,
     "lng": 2.3616808,
-    "address": "Tour de la Liberté",
+    "address": "",
     "type": "Historical event",
     "tags": [],
     "summary": "The outline of the Bastille fortress is traced in paving stones on Place de la Bastille. A section of the northeast tower (Tour de la Liberté) was unearthed during Métro Line 5 construction in 1899 and relocated to Square Henri-Galli on Boulevard Henri IV. The exact footprint of each tower is marked in the square.",
@@ -396,7 +396,7 @@
     "name": "Passage Saint-Maur — Wooden Pavement",
     "lat": 48.8637843,
     "lng": 2.3785083,
-    "address": "Passage Saint-Maur",
+    "address": "",
     "type": "Historical event",
     "tags": [],
     "summary": "One of the last surviving sections of wooden paving (pavé de bois) that once covered many Paris streets in the 19th century. The wooden blocks were laid to muffle the noise of iron-wheeled carriages and horses — a short-lived experiment that mostly rotted away, making this remnant exceptionally rare.",
@@ -409,7 +409,7 @@
     "name": "Hôtel de Sens — Cannonball in the Wall",
     "lat": 48.8535251,
     "lng": 2.3587512,
-    "address": "Hôtel de Sens",
+    "address": "",
     "type": "Historical event",
     "tags": [
       "Marais"
@@ -424,7 +424,7 @@
     "name": "39 Rue du Château d'Eau — Smallest House",
     "lat": 48.8713426,
     "lng": 2.3578449,
-    "address": "39 Rue du Château d'Eau",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "#themost"
@@ -439,7 +439,7 @@
     "name": "146 Rue Montmartre — Crime Location",
     "lat": 48.869254,
     "lng": 2.343228,
-    "address": "146 Rue Montmartre",
+    "address": "",
     "type": "Crime",
     "tags": [],
     "summary": "Crime location in the press quarter of the 2nd arrondissement — Rue Montmartre was historically the heart of Parisian journalism. Specific case details to be researched.",
@@ -452,7 +452,7 @@
     "name": "Quai de la Mégisserie",
     "lat": 48.8573689,
     "lng": 2.3466011,
-    "address": "Quai de la Mégisserie",
+    "address": "",
     "type": "Curiosity",
     "tags": [],
     "summary": "The Quai de la Mégisserie has sold live animals, plants and birds from outdoor stalls since the Middle Ages. The name comes from the mégie — the trade of dressing white leather — which dominated the bank before. Today flower merchants still line the quay, continuing a 700-year tradition of riverside commerce beside the Seine.",
@@ -465,7 +465,7 @@
     "name": "65 Rue Pascal — “Docteur Jekyll et Monsieur Bill” (1957)",
     "lat": 48.8345653,
     "lng": 2.3478964,
-    "address": "65 Rue Pascal",
+    "address": "",
     "type": "Crime",
     "tags": [],
     "summary": "Address associated with a case nicknamed “Docteur Jekyll et Monsieur Bill” (1957) — suggesting a criminal or incident of dual identity: a respectable public figure concealing a hidden criminal life. The 13th arrondissement location near the Salpêtrière points toward the medical world. Full case details to be researched.",
@@ -478,7 +478,7 @@
     "name": "Rue Racine — Assassination of Symon Petliura",
     "lat": 48.8501441,
     "lng": 2.3413151,
-    "address": "Rue Racine",
+    "address": "",
     "type": "Crime",
     "tags": [
       "Latin Quarter"
@@ -493,7 +493,7 @@
     "name": "Avenue de l'Observatoire — L'Affaire de l'Observatoire",
     "lat": 48.8408028,
     "lng": 2.3369739,
-    "address": "Avenue de l'Observatoire",
+    "address": "",
     "type": "Crime",
     "tags": [
       "Latin Quarter"
@@ -508,7 +508,7 @@
     "name": "25 Rue Notre-Dame-de-Nazareth — Dog with Putin's face",
     "lat": 48.8672598,
     "lng": 2.3592501,
-    "address": "25 Rue Notre-Dame-de-Nazareth",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "Marais"
@@ -523,7 +523,7 @@
     "name": "Roberto",
     "lat": 48.8631497,
     "lng": 2.3645335,
-    "address": "Roberto",
+    "address": "",
     "type": "Photo session spot",
     "tags": [
       "Marais"
@@ -538,7 +538,7 @@
     "name": "29 Bd Haussmann",
     "lat": 48.8729499,
     "lng": 2.3322343,
-    "address": "29 Bd Haussmann",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "9e"
@@ -553,7 +553,7 @@
     "name": "La REcyclerie — Petite Ceinture Bar",
     "lat": 48.8976218,
     "lng": 2.3440598,
-    "address": "La REcyclerie",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "18e"
@@ -568,7 +568,7 @@
     "name": "3 Bd des Capucines — Most Beautiful Starbucks",
     "lat": 48.8707028,
     "lng": 2.3335596,
-    "address": "3 Bd des Capucines",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "9e"
@@ -583,7 +583,7 @@
     "name": "Impasse des Arbalétriers — Assassination of Louis d'Orléans",
     "lat": 48.8585228,
     "lng": 2.3595586,
-    "address": "Impasse des Arbalétriers",
+    "address": "",
     "type": "Crime",
     "tags": [
       "Marais"
@@ -598,7 +598,7 @@
     "name": "12 Boulevard Saint-Germain — Crime Location",
     "lat": 48.8495636,
     "lng": 2.354708,
-    "address": "12 Boulevard Saint-Germain",
+    "address": "",
     "type": "Crime",
     "tags": [
       "Latin Quarter"
@@ -613,7 +613,7 @@
     "name": "16 Bd Edgar Quinet — Assassination of Georges Besse",
     "lat": 48.8400018,
     "lng": 2.3288627,
-    "address": "16 Bd Edgar Quinet",
+    "address": "",
     "type": "Crime",
     "tags": [],
     "summary": "On November 17, 1986, Georges Besse — CEO of Renault and former director of the Eurodif nuclear enrichment consortium — was shot dead on the pavement outside his home by two women from the far-left terrorist group Action Directe, Nathalie Meignen and Nathalie Menigon. He was struck by five bullets at point-blank range. The assassination was coordinated with German group RAF. Action Directe members were convicted and sentenced to life imprisonment in 1989. Besse was the highest-profile victim of French far-left terrorism.",
@@ -626,7 +626,7 @@
     "name": "51 Rue de Montmorency — Nicolas Flamel’s House",
     "lat": 48.8635382,
     "lng": 2.3531397,
-    "address": "51 Rue de Montmorency",
+    "address": "",
     "type": "Historical event",
     "tags": [
       "#themost"
@@ -641,7 +641,7 @@
     "name": "8 Rue Galvani — House with a Tree",
     "lat": 48.8841208,
     "lng": 2.2917392,
-    "address": "8 Rue Galvani",
+    "address": "",
     "type": "Curiosity",
     "tags": [],
     "summary": "A building in the 17th arrondissement where a mature tree has grown through the structure — its trunk rising from a light well inside the building, branches emerging above the roofline and visible from the street. A rare case of urban vegetation overtaking architecture; the tree and building now coexist as a single organism.",
@@ -654,7 +654,7 @@
     "name": "10 Rue de l'Éperon — Crime Location",
     "lat": 48.8527063,
     "lng": 2.3406047,
-    "address": "10 Rue de l'Éperon",
+    "address": "",
     "type": "Crime",
     "tags": [
       "Latin Quarter"
@@ -669,7 +669,7 @@
     "name": "28 Rue du Cardinal Lemoine — Crime Location",
     "lat": 48.8479749,
     "lng": 2.3530374,
-    "address": "28 Rue du Cardinal Lemoine",
+    "address": "",
     "type": "Crime",
     "tags": [
       "Latin Quarter"
@@ -684,7 +684,7 @@
     "name": "Hôtel Lauzun — Club des Hashischins",
     "lat": 48.8515491,
     "lng": 2.3588146,
-    "address": "Hôtel Lauzun",
+    "address": "",
     "type": "Historical event",
     "tags": [
       "Marais"
@@ -699,7 +699,7 @@
     "name": "Rue des Degrés — Shortest Street in Paris",
     "lat": 48.8693971,
     "lng": 2.3506599,
-    "address": "Rue des Degrés",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -714,7 +714,7 @@
     "name": "172 Boulevard Saint-Germain — Crime Location",
     "lat": 48.8541278,
     "lng": 2.3325499,
-    "address": "172 Boulevard Saint-Germain",
+    "address": "",
     "type": "Crime",
     "tags": [],
     "summary": "Crime location at or near Café de Flore in the 6th arrondissement. Specific case details to be researched.",
@@ -743,7 +743,7 @@
     "name": "Stohrer — Oldest Patisserie in Paris",
     "lat": 48.8652493,
     "lng": 2.3468171,
-    "address": "Stohrer",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [
       "#themost"
@@ -758,7 +758,7 @@
     "name": "Rue Eugène Sue — Haussmann Geometry",
     "lat": 48.8912159,
     "lng": 2.3471565,
-    "address": "Rue Eugène Sue",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "18e"
@@ -773,7 +773,7 @@
     "name": "Hôtel de Sens — Queen Margot's Execution",
     "lat": 48.8535251,
     "lng": 2.3587512,
-    "address": "Hôtel de Sens",
+    "address": "",
     "type": "Crime",
     "tags": [
       "Marais"
@@ -788,7 +788,7 @@
     "name": "Café La Roseraie",
     "lat": 48.8275646,
     "lng": 2.3713331,
-    "address": "Café La Roseraie",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "Marais"
@@ -803,7 +803,7 @@
     "name": "Square René Viviani — Oldest Tree in Paris",
     "lat": 48.8521218,
     "lng": 2.3475389,
-    "address": "Square René Viviani",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "Latin Quarter",
@@ -819,7 +819,7 @@
     "name": "Mètre étalon — Rue de Vaugirard",
     "lat": 48.8677594,
     "lng": 2.3287383,
-    "address": "Mètre étalon",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -834,7 +834,7 @@
     "name": "25 Rue Jenner — Crime Location",
     "lat": 48.8349602,
     "lng": 2.3626066,
-    "address": "25 Rue Jenner",
+    "address": "",
     "type": "Crime",
     "tags": [],
     "summary": "Crime location in the 13th arrondissement near the Salpêtrière hospital complex. Specific case details to be researched.",
@@ -847,7 +847,7 @@
     "name": "9 Rue Aubry le Boucher — Crime Location",
     "lat": 48.8603522,
     "lng": 2.350205,
-    "address": "9 Rue Aubry le Boucher",
+    "address": "",
     "type": "Crime",
     "tags": [
       "Marais"
@@ -862,7 +862,7 @@
     "name": "Café Pli — Parmentier",
     "lat": 48.8691529,
     "lng": 2.3687512,
-    "address": "Café Pli",
+    "address": "",
     "type": "Curiosity",
     "tags": [],
     "summary": "Café Pli (\"fold\", as in a sealed letter) is a unique concept: customers write letters to their future selves, the café stores them sealed, and mails them on a chosen future date — months or years later. A meditative time capsule exercise over a coffee. Two locations in Paris.",
@@ -875,7 +875,7 @@
     "name": "4 Rue Rollin — Crime Location",
     "lat": 48.8445895,
     "lng": 2.3518095,
-    "address": "4 Rue Rollin",
+    "address": "",
     "type": "Crime",
     "tags": [
       "Latin Quarter"
@@ -890,7 +890,7 @@
     "name": "151 Boulevard Saint-Germain — Kidnapping of Mehdi Ben Barka",
     "lat": 48.8537528,
     "lng": 2.3324105,
-    "address": "151 Boulevard Saint-Germain",
+    "address": "",
     "type": "Crime",
     "tags": [],
     "summary": "On October 29, 1965, Mehdi Ben Barka — exiled leader of the Moroccan opposition and co-founder of the Tricontinental — was lured to the entrance of Brasserie Lipp by a French journalist. Two French plainclothes police officers then bundled him into a car with Moroccan secret agents. He was never seen again; his body was never found. The affair became de Gaulle’s worst political scandal and implicated the French interior ministry, Moroccan intelligence, and underworld figures. The case remains officially unsolved.",
@@ -903,7 +903,7 @@
     "name": "Rue du Chat Qui Pêche — Narrowest Street",
     "lat": 48.853033,
     "lng": 2.3461033,
-    "address": "Rue du Chat Qui Pêche",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "Latin Quarter",
@@ -919,7 +919,7 @@
     "name": "Belvédère de Belleville",
     "lat": 48.8715819,
     "lng": 2.3853213,
-    "address": "Belvédère de Belleville",
+    "address": "",
     "type": "Photo session spot",
     "tags": [],
     "summary": "The belvedere at the top of Parc de Belleville offers one of the highest free panoramic views in Paris — Eiffel Tower perfectly framed to the west. At 108m, it sits higher than the Sacré-Cœur terrace. Largely a local secret, not a tourist destination.",
@@ -932,7 +932,7 @@
     "name": "Rue Eugène Poubelle — Origin of the Bin",
     "lat": 48.8504338,
     "lng": 2.278202,
-    "address": "Rue Eugène Poubelle",
+    "address": "",
     "type": "Historical event",
     "tags": [
       "#themost"
@@ -947,7 +947,7 @@
     "name": "7 Rue Sainte-Anne — Popp Pneumatic Clock",
     "lat": 48.8657771,
     "lng": 2.3351824,
-    "address": "7 Rue Sainte-Anne",
+    "address": "",
     "type": "Historical event",
     "tags": [],
     "summary": "Former site of the central clock of Clément Popp’s Horloges Pneumatiques de Paris — a system distributing precise time signals via compressed air tubes from 1880 to 1927. At peak, over 14,000 public and private clocks across Paris were synchronized through this invisible underground network, receiving a timed air pulse every minute from this building.",
@@ -960,7 +960,7 @@
     "name": "30 Rue Montmartre — Porte Montmartre",
     "lat": 48.8643796,
     "lng": 2.3454744,
-    "address": "30 Rue Montmartre",
+    "address": "",
     "type": "Architecture",
     "tags": [],
     "summary": "Site of the Porte Montmartre, a secondary gate of Philippe Auguste’s Right Bank wall on the northern perimeter, positioned on the road leading north toward the village of Montmartre. The gate was one of the smaller postern gates, used primarily for commercial traffic from the northern fields into the city markets. Demolished in the 17th century.",
@@ -973,7 +973,7 @@
     "name": "36 Rue Jean de la Fontaine — Jean Cocteau",
     "lat": 48.8512479,
     "lng": 2.2724483,
-    "address": "36 Rue Jean de la Fontaine",
+    "address": "",
     "type": "Person lived here",
     "tags": [],
     "summary": "Jean Cocteau — poet, filmmaker, playwright, and one of the most prominent cocaine users in 1920s Paris — lived here. He documented his addiction in the 1930 book Opium: Journal of a Cure, written during his detox at a Saint-Cloud clinic. Cocteau’s circle included Picasso, Coco Chanel, Erik Satie, and Marcel Proust. He directed Blood of a Poet (1930) and Beauty and the Beast (1946) at the height of his powers. He died in 1963, hours after learning of Edith Piaf’s death.",
@@ -986,7 +986,7 @@
     "name": "4 Rue Garancière — Talleyrand Birthplace",
     "lat": 48.8506255,
     "lng": 2.3357287,
-    "address": "4 Rue Garancière",
+    "address": "",
     "type": "Person lived here",
     "tags": [
       "Latin Quarter"
@@ -1001,7 +1001,7 @@
     "name": "90 Bd de Port-Royal — Lydia Delectorskaya & Matisse",
     "lat": 48.8394279,
     "lng": 2.3382821,
-    "address": "90 Bd de Port-Royal",
+    "address": "",
     "type": "Person lived here",
     "tags": [
       "Latin Quarter"
@@ -1016,7 +1016,7 @@
     "name": "200 Rue Saint-Martin — Porte Saint-Martin (Medieval)",
     "lat": 48.8642794,
     "lng": 2.3530398,
-    "address": "200 Rue Saint-Martin",
+    "address": "",
     "type": "Architecture",
     "tags": [],
     "summary": "Site of the medieval Porte Saint-Martin of Philippe Auguste’s Right Bank wall — distinct from Louis XIV’s triumphal Porte Saint-Martin arch (1674) 400m to the north. This was a principal gate on the road to Saint-Martin-des-Champs and the northern suburbs. The surrounding Marais streets still follow the curve of the old wall. Demolished when Charles V extended the city walls northward in the 1360s.",
@@ -1029,7 +1029,7 @@
     "name": "1 Rue Chapon — Fake House",
     "lat": 48.8628618,
     "lng": 2.357667,
-    "address": "1 Rue Chapon",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost",
@@ -1045,7 +1045,7 @@
     "name": "Place du Général Catroux — The Three Dumas",
     "lat": 48.8821165,
     "lng": 2.311499,
-    "address": "Place du Général Catroux",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [],
     "summary": "This square in the 17th arrondissement once displayed three Dumas monuments and was informally called “Place des Trois Dumas”. At its centre stood a monument to General Alexandre Dumas (the grandfather) — a Napoleonic general and the son of a Haitian slave — which was later removed. The two flanking monuments to Alexandre Dumas-père (author of The Three Musketeers and The Count of Monte Cristo) and Alexandre Dumas-fils (author of La Dame aux Camélias) remain. Three writers from the same family, three monuments, three generations.",
@@ -1058,7 +1058,7 @@
     "name": "Rue du Vieux-Colombier — Hôtel de Tréville & Porthos",
     "lat": 48.8518028,
     "lng": 2.3304753,
-    "address": "Rue du Vieux-Colombier",
+    "address": "",
     "type": "Film / literature",
     "tags": [
       "Latin Quarter"
@@ -1073,7 +1073,7 @@
     "name": "La Rotonde — Montparnasse Bohemian Café",
     "lat": 48.8423598,
     "lng": 2.3292123,
-    "address": "La Rotonde",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [],
     "summary": "One of the four great bohemian cafés of Montparnasse (with Le Dôme, Le Select and La Coupole), La Rotonde was a gathering point for the École de Paris in the 1910s–20s. Modigliani would sit here for hours sketching customers in exchange for drinks. Lenin and Trotsky played chess here before the Revolution. Picasso, Matisse, Kisling, Soutine and Foujita were all regulars. The owner Victor Libion extended credit to broke artists and accepted paintings as payment — which he often simply threw out.",
@@ -1086,7 +1086,7 @@
     "name": "31 Rue de Tournon — Captain de Tréville (Real)",
     "lat": 48.8497061,
     "lng": 2.3374487,
-    "address": "31 Rue de Tournon",
+    "address": "",
     "type": "Person lived here",
     "tags": [
       "Latin Quarter"
@@ -1101,7 +1101,7 @@
     "name": "145 Rue La Fayette — Fake House",
     "lat": 48.87917,
     "lng": 2.3561426,
-    "address": "145 Rue La Fayette",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -1109,40 +1109,40 @@
     "summary": "A false façade on Rue La Fayette in the 10th arrondissement, named after the Marquis de Lafayette who fought in both the American and French Revolutions. The fake house is a standard Haussmann-era front concealing ventilation or access infrastructure for the underground network beneath one of Paris’s long commercial boulevards.",
     "time_period": "",
     "source_link": "https://www.google.com/maps/search/145+Rue+La+Fayette+75010+Paris",
-    "notion_url": "https://www.notion.so/145-Rue-La-Fayette-Fake-House-3358324cdc4a81319152ff439a573c49"
+    "notion_url": "https://app.notion.com/145-Rue-La-Fayette-Fake-House-3358324cdc4a81319152ff439a573c49"
   },
   {
     "id": "3358324c-dc4a-8137-a592-e93d0fceb0bc",
     "name": "148 Rue Saint-Honoré — Porte Saint-Honoré",
     "lat": 48.8619667,
     "lng": 2.3403232,
-    "address": "148 Rue Saint-Honoré",
+    "address": "",
     "type": "Architecture",
     "tags": [],
     "summary": "Site of the Porte Saint-Honoré, the principal western gate of Philippe Auguste’s Right Bank wall, positioned on the road to Saint-Cloud and Versailles. Joan of Arc was wounded by an arrow while attempting to storm this gate on September 8, 1429, trying to retake Paris from the English and Burgundians. The gate was demolished in 1636. A plaque marks the spot where she fell.",
     "time_period": "1190–1636",
     "source_link": "https://www.google.com/maps/search/148+Rue+Saint-Honore+Paris",
-    "notion_url": "https://www.notion.so/148-Rue-Saint-Honor-Porte-Saint-Honor-3358324cdc4a8137a592e93d0fceb0bc"
+    "notion_url": "https://app.notion.com/148-Rue-Saint-Honor-Porte-Saint-Honor-3358324cdc4a8137a592e93d0fceb0bc"
   },
   {
     "id": "3358324c-dc4a-8138-b9a0-d52563ab559b",
     "name": "10 Rue de la Grande Chaumière — Académie Chaumiere",
     "lat": 48.8423247,
     "lng": 2.3306895,
-    "address": "10 Rue de la Grande Chaumière",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [],
     "summary": "The Académie de la Grande Chaumière, a legendary free-model drawing school on the same street as Modigliani’s studio (no. 8). Jeanne Hébuterne studied here, which is how she met Modigliani. Gauguin, Matisse, Giacometti, Cézanne and Rodin all worked or studied on this street. The school remains open today — still running open life-drawing sessions with no registration required. One of the last surviving ateliers of the Montparnasse art world.",
     "time_period": "1900s–present",
     "source_link": "https://www.google.com/maps/search/10+Rue+de+la+Grande+Chaumi%C3%A8re+Paris",
-    "notion_url": "https://www.notion.so/10-Rue-de-la-Grande-Chaumi-re-Acad-mie-Chaumiere-3358324cdc4a8138b9a0d52563ab559b"
+    "notion_url": "https://app.notion.com/10-Rue-de-la-Grande-Chaumi-re-Acad-mie-Chaumiere-3358324cdc4a8138b9a0d52563ab559b"
   },
   {
     "id": "3358324c-dc4a-8139-86b7-f21a9f41ed98",
     "name": "31 Rue du Pont Neuf — Fake House",
     "lat": 48.8612324,
     "lng": 2.3448351,
-    "address": "31 Rue du Pont Neuf",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -1150,14 +1150,14 @@
     "summary": "A false façade in the 1st arrondissement near the Pont Neuf, Paris’s oldest bridge (1607). The fake house hides infrastructure a few steps from the Seine, seamlessly integrated into the dense urban fabric of Les Halles and the old trading quarter.",
     "time_period": "",
     "source_link": "https://www.google.com/maps/search/31+Rue+du+Pont+Neuf+75001+Paris",
-    "notion_url": "https://www.notion.so/31-Rue-du-Pont-Neuf-Fake-House-3358324cdc4a813986b7f21a9f41ed98"
+    "notion_url": "https://app.notion.com/31-Rue-du-Pont-Neuf-Fake-House-3358324cdc4a813986b7f21a9f41ed98"
   },
   {
     "id": "3358324c-dc4a-813e-8586-c4637cbd2d33",
     "name": "Place de l’Institut — Left Bank Wall Remnant",
     "lat": 48.8575256,
     "lng": 2.3371378,
-    "address": "Place de l’Institut",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "Latin Quarter"
@@ -1165,14 +1165,14 @@
     "summary": "Area near the Seine where the Left Bank section of Philippe Auguste’s wall reached the river. The wall descended from the Latin Quarter to the riverside at roughly this point, terminating at a river tower. The Institut de France now occupies the site of the College des Quatre-Nations (1688), which was itself built over the old wall line. Wall fragments have been found in excavations around the Pont des Arts area.",
     "time_period": "1190–1215",
     "source_link": "https://www.google.com/maps/search/Place+de+l+Institut+75006+Paris",
-    "notion_url": "https://www.notion.so/Place-de-l-Institut-Left-Bank-Wall-Remnant-3358324cdc4a813e8586c4637cbd2d33"
+    "notion_url": "https://app.notion.com/Place-de-l-Institut-Left-Bank-Wall-Remnant-3358324cdc4a813e8586c4637cbd2d33"
   },
   {
     "id": "3358324c-dc4a-8146-ac9f-ccb4a84be18f",
     "name": "Cour du Commerce Saint-André — Tower of Philippe Auguste's Wall",
     "lat": 48.8527346,
     "lng": 2.3391114,
-    "address": "Cour du Commerce Saint-André",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "Latin Quarter"
@@ -1180,14 +1180,14 @@
     "summary": "One of the most atmospheric covered passages in Paris, built in 1776 — and hiding one of its greatest secrets: at no. 9, a full circular tower of Philippe Auguste’s 1190 wall protrudes through the building, visible inside a café. This was a tower of the Porte de Buci, the main western gate of the Left Bank wall. Marat had his print shop here; Dr. Guillotin tested his decapitation device on sheep in the passage before it was used on humans.",
     "time_period": "1190–1215 (wall), 1776 (passage)",
     "source_link": "https://www.google.com/maps/search/Cour+du+Commerce+Saint-Andre+Paris",
-    "notion_url": "https://www.notion.so/Cour-du-Commerce-Saint-Andr-Tower-of-Philippe-Auguste-s-Wall-3358324cdc4a8146ac9fccb4a84be18f"
+    "notion_url": "https://app.notion.com/Cour-du-Commerce-Saint-Andr-Tower-of-Philippe-Auguste-s-Wall-3358324cdc4a8146ac9fccb4a84be18f"
   },
   {
     "id": "3358324c-dc4a-814a-9b16-f690921cecfc",
     "name": "70 Rue de Vaugirard — Couvent des Carmes Déchaux",
     "lat": 48.8485522,
     "lng": 2.3302971,
-    "address": "70 Rue de Vaugirard",
+    "address": "",
     "type": "Film / literature",
     "tags": [
       "Latin Quarter"
@@ -1195,14 +1195,14 @@
     "summary": "Site of the Convent of the Discalced Carmelites (“Carmes Déchaux” or “Déchaussés” — barefoot friars), referenced by Dumas in The Three Musketeers as a location connected to the religious and clandestine world of 17th-century Paris. During the September Massacres of 1792, over 190 priests and clergy were slaughtered in the convent gardens — their bones are preserved in a crypt beneath the chapel. The Institut Catholique de Paris now occupies the site.",
     "time_period": "17th century (fictional reference), 1792 (massacre)",
     "source_link": "https://www.google.com/maps/search/70+Rue+de+Vaugirard+Paris",
-    "notion_url": "https://www.notion.so/70-Rue-de-Vaugirard-Couvent-des-Carmes-D-chaux-3358324cdc4a814a9b16f690921cecfc"
+    "notion_url": "https://app.notion.com/70-Rue-de-Vaugirard-Couvent-des-Carmes-D-chaux-3358324cdc4a814a9b16f690921cecfc"
   },
   {
     "id": "3358324c-dc4a-814e-907a-e995fec78641",
     "name": "27 Rue Bergère — Fake House",
     "lat": 48.8724603,
     "lng": 2.3444016,
-    "address": "27 Rue Bergère",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost",
@@ -1211,14 +1211,14 @@
     "summary": "A fake building on Rue Bergère in the 9th arrondissement, near the Foliès Bergère music hall. The street itself is named after the bergeries (sheepfolds) that occupied this land before the 19th-century urbanisation. The false façade hides underground infrastructure behind a seamless Haussmann frontage.",
     "time_period": "",
     "source_link": "https://www.google.com/maps/search/27+Rue+Bergere+75009+Paris",
-    "notion_url": "https://www.notion.so/27-Rue-Berg-re-Fake-House-3358324cdc4a814e907ae995fec78641"
+    "notion_url": "https://app.notion.com/27-Rue-Berg-re-Fake-House-3358324cdc4a814e907ae995fec78641"
   },
   {
     "id": "3358324c-dc4a-815e-9542-d231221f771f",
     "name": "29 Rue Quincampoix — Fake House",
     "lat": 48.8608983,
     "lng": 2.3504541,
-    "address": "29 Rue Quincampoix",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost",
@@ -1227,14 +1227,14 @@
     "summary": "A false façade on Rue Quincampoix, one of the most historically charged streets in Paris. In 1719–20, John Law’s Mississippi Company offices were here — the street was so packed with frenzied investors during the financial bubble that people reportedly rented out their hunchbacks as writing desks. The fake house sits in one of the few medieval-era streets that survived Haussmann’s reforms intact.",
     "time_period": "20th century façade; medieval street",
     "source_link": "https://www.google.com/maps/search/29+Rue+Quincampoix+75004+Paris",
-    "notion_url": "https://www.notion.so/29-Rue-Quincampoix-Fake-House-3358324cdc4a815e9542d231221f771f"
+    "notion_url": "https://app.notion.com/29-Rue-Quincampoix-Fake-House-3358324cdc4a815e9542d231221f771f"
   },
   {
     "id": "3358324c-dc4a-8168-bbe1-c56a0b93872e",
     "name": "Rue Servandoni — D’Artagnan’s Lodging",
     "lat": 48.8499009,
     "lng": 2.3347473,
-    "address": "Rue Servandoni",
+    "address": "",
     "type": "Film / literature",
     "tags": [
       "Latin Quarter"
@@ -1242,14 +1242,14 @@
     "summary": "The real street where Dumas places d’Artagnan’s first Paris lodging — a “petite mansarde” in what the novel calls the Rue des Fossoyeurs (Street of the Gravediggers). The street was renamed Rue Servandoni in 1806 after the Italian architect who redesigned the facade of Saint-Sulpice. It is here that d’Artagnan installs himself on arrival from Gascony, in a garret barely large enough to contain a bed and a trunk, before his fateful first encounters with the three musketeers.",
     "time_period": "1625 (fictional)",
     "source_link": "https://www.paris.fr/pages/une-balade-sur-les-pas-des-mousquetaires-19045",
-    "notion_url": "https://www.notion.so/Rue-Servandoni-D-Artagnan-s-Lodging-3358324cdc4a8168bbe1c56a0b93872e"
+    "notion_url": "https://app.notion.com/Rue-Servandoni-D-Artagnan-s-Lodging-3358324cdc4a8168bbe1c56a0b93872e"
   },
   {
     "id": "3358324c-dc4a-816d-a820-f9a47d57a38e",
     "name": "Musée de la Vie Romantique — George Sand’s Circle",
     "lat": 48.8813455,
     "lng": 2.3335217,
-    "address": "Musée de la Vie Romantique",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [
       "9e"
@@ -1257,14 +1257,14 @@
     "summary": "The former home and studio of Dutch painter Ary Scheffer, who lived here from 1830 to 1858. Every Friday evening he hosted the cream of Romantic Paris: George Sand, Chopin, Liszt, Turgenev, Dickens and Delacroix all attended his salons. The museum holds personal objects of George Sand including jewellery, paintings and casts of her hand and Chopin’s hand. The garden café is one of the most pleasant in Paris — free entry to the permanent collection.",
     "time_period": "1830–1858",
     "source_link": "https://www.google.com/maps/search/Mus%C3%A9e+de+la+Vie+Romantique+16+Rue+Chaptal+Paris",
-    "notion_url": "https://www.notion.so/Mus-e-de-la-Vie-Romantique-George-Sand-s-Circle-3358324cdc4a816da820f9a47d57a38e"
+    "notion_url": "https://app.notion.com/Mus-e-de-la-Vie-Romantique-George-Sand-s-Circle-3358324cdc4a816da820f9a47d57a38e"
   },
   {
     "id": "3358324c-dc4a-816f-8d03-f27a491f2c56",
     "name": "8 Rue de la Grande Chaumière — Modigliani",
     "lat": 48.8423885,
     "lng": 2.3308482,
-    "address": "8 Rue de la Grande Chaumière",
+    "address": "",
     "type": "Person lived here",
     "tags": [
       "Latin Quarter"
@@ -1272,14 +1272,14 @@
     "summary": "Amedeo Modigliani lived and worked at this address during his final years, producing the elongated portraits and nudes that now sell for hundreds of millions. He died here in January 1920 aged 35, of tubercular meningitis, having barely sold a painting in his lifetime. The next morning, his pregnant companion Jeanne Hébuterne threw herself from a fifth-floor window two streets away. The street in Montparnasse was already lined with artists’ ateliers — Gauguin had worked nearby, as had Matisse.",
     "time_period": "1910s–1920",
     "source_link": "https://www.google.com/maps/search/8+Rue+de+la+Grande+Chaumiere+Paris",
-    "notion_url": "https://www.notion.so/8-Rue-de-la-Grande-Chaumi-re-Modigliani-3358324cdc4a816f8d03f27a491f2c56"
+    "notion_url": "https://app.notion.com/8-Rue-de-la-Grande-Chaumi-re-Modigliani-3358324cdc4a816f8d03f27a491f2c56"
   },
   {
     "id": "3358324c-dc4a-8177-b785-f510a35804b9",
     "name": "174 Rue du Faubourg Saint-Denis — Fake House",
     "lat": 48.8801267,
     "lng": 2.3576241,
-    "address": "174 Rue du Faubourg Saint-Denis",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -1287,53 +1287,53 @@
     "summary": "A false façade on the Faubourg Saint-Denis, one of the oldest and most commercial streets in northern Paris — a road that has led to the Basilica of Saint-Denis since Roman times. The fake house stands on a street of passage d’armes, workshops, and wholesale food businesses, hiding infrastructure behind a conventional residential frontage.",
     "time_period": "",
     "source_link": "https://www.google.com/maps/search/174+Rue+du+Faubourg+Saint-Denis+75010+Paris",
-    "notion_url": "https://www.notion.so/174-Rue-du-Faubourg-Saint-Denis-Fake-House-3358324cdc4a8177b785f510a35804b9"
+    "notion_url": "https://app.notion.com/174-Rue-du-Faubourg-Saint-Denis-Fake-House-3358324cdc4a8177b785f510a35804b9"
   },
   {
     "id": "3358324c-dc4a-8177-ba4f-e933b65e730c",
     "name": "1 Quai Voltaire — D’Artagnan’s House Plaque",
     "lat": 48.858245,
     "lng": 2.3329353,
-    "address": "1 Quai Voltaire",
+    "address": "",
     "type": "Film / literature",
     "tags": [],
     "summary": "A commemorative plaque on the corner building of Rue du Bac and Quai Voltaire marks the site where the real d’Artagnan — Charles de Batz-Castelmore d’Artagnan, captain-lieutenant of Louis XIV’s Musketeers — lived until his death at Maastricht in 1673. The location is strategically apt: directly by the Pont Royal across the Seine, facing the Louvre — the heart of his royal service. Immortalised by Alexandre Dumas in The Three Musketeers (1844).",
     "time_period": "17th century",
     "source_link": "https://www.google.com/maps/search/Commemorative+plaque+d+Artagnan+Quai+Voltaire+Paris",
-    "notion_url": "https://www.notion.so/1-Quai-Voltaire-D-Artagnan-s-House-Plaque-3358324cdc4a8177ba4fe933b65e730c"
+    "notion_url": "https://app.notion.com/1-Quai-Voltaire-D-Artagnan-s-House-Plaque-3358324cdc4a8177ba4fe933b65e730c"
   },
   {
     "id": "3358324c-dc4a-817c-9880-dcaebf506e04",
     "name": "Le Dôme Café — Heart of the École de Paris",
     "lat": 48.8576592,
     "lng": 2.3004661,
-    "address": "Le Dôme Café",
+    "address": "",
     "type": "Cultural / arts",
     "tags": [],
     "summary": "The oldest and most storied of Montparnasse’s bohemian cafés, founded in 1897. Foujita, Modigliani, Soutine, Picasso and Diego Rivera spent evenings here arguing, drinking and sketching. Modigliani drank here heavily in his final years, often trading small drawings for wine. Hemingway wrote about the Montparnasse café scene in The Sun Also Rises. Henry Miller was a regular in the 1930s. Still operating as a brasserie, it retains its Belle Époque interior.",
     "time_period": "1897–present",
     "source_link": "https://www.google.com/maps/search/Le+Dome+Caf%C3%A9+108+Boulevard+du+Montparnasse",
-    "notion_url": "https://www.notion.so/Le-D-me-Caf-Heart-of-the-cole-de-Paris-3358324cdc4a817c9880dcaebf506e04"
+    "notion_url": "https://app.notion.com/Le-D-me-Caf-Heart-of-the-cole-de-Paris-3358324cdc4a817c9880dcaebf506e04"
   },
   {
     "id": "3358324c-dc4a-8184-b82d-cf32ed20c019",
     "name": "Kodawari Ramen Tsukiji",
     "lat": 48.8643846,
     "lng": 2.3362784,
-    "address": "Kodawari Ramen Tsukiji",
+    "address": "",
     "type": "Curiosity",
     "tags": [],
     "summary": "Acclaimed Japanese ramen restaurant near the Palais Royal, themed around the Tsukiji fish market in Tokyo. One of the best ramen spots in Paris, known for its rich tonkotsu broth and immersive interior design replicating a Japanese alleyway. Consistently long queues.",
     "time_period": "",
     "source_link": "https://www.google.com/maps/search/Kodawari+Ramen+Tsukiji+Paris",
-    "notion_url": "https://www.notion.so/Kodawari-Ramen-Tsukiji-3358324cdc4a8184b82dcf32ed20c019"
+    "notion_url": "https://app.notion.com/Kodawari-Ramen-Tsukiji-3358324cdc4a8184b82dcf32ed20c019"
   },
   {
     "id": "3358324c-dc4a-8187-b741-c085ffb7e3dd",
     "name": "5 bis Rue de Verneuil — Serge Gainsbourg",
     "lat": 48.8571954,
     "lng": 2.3316056,
-    "address": "5 bis Rue de Verneuil",
+    "address": "",
     "type": "Person lived here",
     "tags": [
       "#themost"
@@ -1341,14 +1341,14 @@
     "summary": "Serge Gainsbourg lived in this hôtel particulier from 1969 until his death in 1991. He shared it for years with Jane Birkin, who left in 1980. The exterior is covered in graffiti and dedications left by fans since his death — the City of Paris has repeatedly threatened to clean the wall, and fans have repeatedly repainted it. Inside, the house was left exactly as he left it: ashtrays full, whisky bottles on the table, art and books everywhere. His daughter Charlotte eventually opened it as a museum in 2023.",
     "time_period": "1969–1991",
     "source_link": "https://www.google.com/maps/search/5+bis+Rue+de+Verneuil+Paris",
-    "notion_url": "https://www.notion.so/5-bis-Rue-de-Verneuil-Serge-Gainsbourg-3358324cdc4a8187b741c085ffb7e3dd"
+    "notion_url": "https://app.notion.com/5-bis-Rue-de-Verneuil-Serge-Gainsbourg-3358324cdc4a8187b741c085ffb7e3dd"
   },
   {
     "id": "3358324c-dc4a-8188-a379-ec8b473516fc",
     "name": "Héliport de Paris — First Circular Flight in History",
     "lat": 48.8371608,
     "lng": 2.3613411,
-    "address": "Héliport de Paris",
+    "address": "",
     "type": "Historical event",
     "tags": [
       "#themost"
@@ -1356,14 +1356,14 @@
     "summary": "On January 13, 1908, Henri Farman made the first circular airplane flight in history on this ground — a one-kilometre loop lasting one minute, returning to the start point. All previous flights had been in straight lines; Farman proved heavier-than-air machines could be controlled and turned. The feat won him the Deutsch-Archdeacon prize of 50,000 francs. The same terrain later became the Paris Heliport, entirely surrounded by the commune of Issy-les-Moulineaux. A street bordering Paris and Issy is named after Farman. Marthe Richard — prostitute, aviator, spy and politician — trained here after obtaining her pilot’s licence in 1913, becoming one of the first female aviators in France.",
     "time_period": "1908",
     "source_link": "https://www.google.com/maps/search/H%C3%A9liport+de+Paris+Issy-les-Moulineaux",
-    "notion_url": "https://www.notion.so/H-liport-de-Paris-First-Circular-Flight-in-History-3358324cdc4a8188a379ec8b473516fc"
+    "notion_url": "https://app.notion.com/H-liport-de-Paris-First-Circular-Flight-in-History-3358324cdc4a8188a379ec8b473516fc"
   },
   {
     "id": "3358324c-dc4a-818e-83b4-cb8d51f560eb",
     "name": "1 Rue des Ursins — Fake House (Île de la Cité)",
     "lat": 48.8538719,
     "lng": 2.3516138,
-    "address": "1 Rue des Ursins",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost",
@@ -1372,14 +1372,14 @@
     "summary": "A false façade on the Île de la Cité, the historic island at the heart of Paris. Rue des Ursins is one of the oldest street names in Paris — it follows the course of a now-buried arm of the Seine. The fake house here conceals infrastructure on one of the island’s quietest and most medieval-feeling lanes, just behind Notre-Dame.",
     "time_period": "",
     "source_link": "https://www.google.com/maps/search/1+Rue+des+Ursins+75004+Paris",
-    "notion_url": "https://www.notion.so/1-Rue-des-Ursins-Fake-House-le-de-la-Cit-3358324cdc4a818e83b4cb8d51f560eb"
+    "notion_url": "https://app.notion.com/1-Rue-des-Ursins-Fake-House-le-de-la-Cit-3358324cdc4a818e83b4cb8d51f560eb"
   },
   {
     "id": "3358324c-dc4a-8194-b035-e4e3115d6500",
     "name": "141 Boulevard Diderot — Fake House (Métro Line 1)",
     "lat": 48.8482859,
     "lng": 2.393763,
-    "address": "141 Boulevard Diderot",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -1387,14 +1387,14 @@
     "summary": "A fake residential building on Boulevard Diderot in the 12th arrondissement, concealing a ventilation shaft and access point for Métro Line 1. The façade is Haussmann-style with trompe-l’œil windows; no one lives here and no floors exist behind the stonework. One of several such structures along the Line 1 corridor between Nation and Vincennes.",
     "time_period": "1900s",
     "source_link": "https://www.google.com/maps/search/141+Boulevard+Diderot+75012+Paris",
-    "notion_url": "https://www.notion.so/141-Boulevard-Diderot-Fake-House-M-tro-Line-1-3358324cdc4a8194b035e4e3115d6500"
+    "notion_url": "https://app.notion.com/141-Boulevard-Diderot-Fake-House-M-tro-Line-1-3358324cdc4a8194b035e4e3115d6500"
   },
   {
     "id": "3358324c-dc4a-8195-830d-fe8f1b5000a6",
     "name": "44 Rue d’Aboukir — Fake House",
     "lat": 48.8672066,
     "lng": 2.3453327,
-    "address": "44 Rue d’Aboukir",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -1402,14 +1402,14 @@
     "summary": "A false façade in the 2nd arrondissement, named after Napoleon’s Battle of Aboukir (1799). The street runs through the old textile and garment district, now home to wholesale fabric traders. The fake house hides infrastructure behind a period-appropriate frontage indistinguishable from its neighbours.",
     "time_period": "",
     "source_link": "https://www.google.com/maps/search/44+Rue+d+Aboukir+75002+Paris",
-    "notion_url": "https://www.notion.so/44-Rue-d-Aboukir-Fake-House-3358324cdc4a8195830dfe8f1b5000a6"
+    "notion_url": "https://app.notion.com/44-Rue-d-Aboukir-Fake-House-3358324cdc4a8195830dfe8f1b5000a6"
   },
   {
     "id": "3358324c-dc4a-819c-84e4-e7872d73b75a",
     "name": "2 Rue des Écoles — Left Bank Wall Remnant",
     "lat": 48.8476521,
     "lng": 2.3524609,
-    "address": "2 Rue des Écoles",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "Latin Quarter"
@@ -1417,27 +1417,27 @@
     "summary": "Location on the Left Bank where the line of Philippe Auguste’s wall crossed the street grid. Rue des Écoles itself follows a roughly east-west axis that corresponds to the southern perimeter of the medieval wall’s left bank stretch. Excavations in this area during 19th and 20th century construction works have repeatedly uncovered wall foundations and tower bases.",
     "time_period": "1190–1215",
     "source_link": "https://www.google.com/maps/search/2+Rue+des+Ecoles+75005+Paris",
-    "notion_url": "https://www.notion.so/2-Rue-des-coles-Left-Bank-Wall-Remnant-3358324cdc4a819c84e4e7872d73b75a"
+    "notion_url": "https://app.notion.com/2-Rue-des-coles-Left-Bank-Wall-Remnant-3358324cdc4a819c84e4e7872d73b75a"
   },
   {
     "id": "3358324c-dc4a-819c-b503-d59e0bf32bf8",
     "name": "15 Rue du Bac — Musketeers’ Barracks",
     "lat": 48.8584268,
     "lng": 2.3285474,
-    "address": "15 Rue du Bac",
+    "address": "",
     "type": "Film / literature",
     "tags": [],
     "summary": "Nos. 13–17 Rue du Bac housed the barracks of the King’s Musketeers, where most of them were quartered at royal expense. This arrangement was formalised during d’Artagnan’s tenure as captain-lieutenant of the Musketeers from 1667, and barracks on this site were in use from around 1670. The historical Charles de Batz-Castelmore d’Artagnan was appointed captain-lieutenant by Louis XIV and was killed besieging Maastricht in 1673. Dumas used the real street in his novel.",
     "time_period": "1667–1673",
     "source_link": "https://www.google.com/maps/search/15+Rue+du+Bac+Paris",
-    "notion_url": "https://www.notion.so/15-Rue-du-Bac-Musketeers-Barracks-3358324cdc4a819cb503d59e0bf32bf8"
+    "notion_url": "https://app.notion.com/15-Rue-du-Bac-Musketeers-Barracks-3358324cdc4a819cb503d59e0bf32bf8"
   },
   {
     "id": "3358324c-dc4a-81a1-ad4a-c512119338fc",
     "name": "14 Rue Duvergier — Fake House",
     "lat": 48.889572,
     "lng": 2.376712,
-    "address": "14 Rue Duvergier",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -1445,27 +1445,27 @@
     "summary": "A fake building façade in the 19th arrondissement hiding technical infrastructure behind a realistic residential frontage. The 19th is home to several such structures, built during the rapid expansion of Paris’s underground networks in the late 19th and early 20th centuries.",
     "time_period": "",
     "source_link": "https://www.google.com/maps/search/14+Rue+Duvergier+75019+Paris",
-    "notion_url": "https://www.notion.so/14-Rue-Duvergier-Fake-House-3358324cdc4a81a1ad4ac512119338fc"
+    "notion_url": "https://app.notion.com/14-Rue-Duvergier-Fake-House-3358324cdc4a81a1ad4ac512119338fc"
   },
   {
     "id": "3358324c-dc4a-81a8-888d-da169fb2880d",
     "name": "Palais Royal — Cardinal Richelieu’s Palace",
     "lat": 48.8635847,
     "lng": 2.3362042,
-    "address": "Palais Royal",
+    "address": "",
     "type": "Film / literature",
     "tags": [],
     "summary": "Originally built as the Palais Cardinal by Richelieu (1633–42), renamed Palais Royal when he bequeathed it to Louis XIII. In The Three Musketeers, it is the nerve centre of the Cardinal’s perfidious scheming against the queen and her allies. Dumas’s Richelieu orchestrates his plots from here, deploying his spy Milady de Winter to compromise Anne d’Autriche. The Palais Royal’s arcaded gardens were later famous as a centre of gambling, prostitution and political pamphlets — the Café de Foy here was where Camille Desmoulins gave the speech that launched the storming of the Bastille in 1789.",
     "time_period": "1625 (fictional), 1633 (historical)",
     "source_link": "https://www.paris.fr/pages/une-balade-sur-les-pas-des-mousquetaires-19045",
-    "notion_url": "https://www.notion.so/Palais-Royal-Cardinal-Richelieu-s-Palace-3358324cdc4a81a8888dda169fb2880d"
+    "notion_url": "https://app.notion.com/Palais-Royal-Cardinal-Richelieu-s-Palace-3358324cdc4a81a8888dda169fb2880d"
   },
   {
     "id": "3358324c-dc4a-81a9-80ca-c333d8e627f0",
     "name": "72 Rue de Belleville — Edith Piaf’s Birthplace",
     "lat": 48.8735093,
     "lng": 2.3837939,
-    "address": "72 Rue de Belleville",
+    "address": "",
     "type": "Person lived here",
     "tags": [
       "#themost"
@@ -1473,14 +1473,14 @@
     "summary": "According to legend — and a plaque on the building — Édith Piaf was born on the pavement in front of this house on December 19, 1915, delivered by a police officer while her father was away. Official records place her birth at Hôpital Tenon, but the neighbourhood story persists. The plaque reads: “On this spot, on 19 December 1915, in utter poverty, was born Édith Piaf, who would go on to conquer the world.” She grew up in Belleville among street performers and prostitutes before her voice was discovered at the age of 20 on Rue Troyon.",
     "time_period": "1915",
     "source_link": "https://www.google.com/maps/search/72+Rue+de+Belleville+Paris",
-    "notion_url": "https://www.notion.so/72-Rue-de-Belleville-Edith-Piaf-s-Birthplace-3358324cdc4a81a980cac333d8e627f0"
+    "notion_url": "https://app.notion.com/72-Rue-de-Belleville-Edith-Piaf-s-Birthplace-3358324cdc4a81a980cac333d8e627f0"
   },
   {
     "id": "3358324c-dc4a-81ad-89b9-d3932b94dfaf",
     "name": "Église Saint-Joseph-des-Carmes — First Duel of the Musketeers",
     "lat": 48.8485522,
     "lng": 2.3302971,
-    "address": "Église Saint-Joseph-des-Carmes",
+    "address": "",
     "type": "Film / literature",
     "tags": [
       "Latin Quarter"
@@ -1488,14 +1488,14 @@
     "summary": "Dumas sets the famous first duel — in which d’Artagnan simultaneously faces Athos, Porthos and Aramis and the three become friends — in front of the Couvent des Carmes-Déchaux, described as “a sort of building without windows, bordered by arid meadows.” Only the church survives today: Église Saint-Joseph-des-Carmes (1613–20), the first church built in Paris after the Edict of Nantes. During the September Massacres of 1792, the garden was the site of the slaughter of 191 priests. Their bones are preserved in a crypt beneath the chapel. The Institut Catholique de Paris now occupies the former convent grounds.",
     "time_period": "1625 (fictional), 1792 (historical)",
     "source_link": "https://www.paris.fr/pages/une-balade-sur-les-pas-des-mousquetaires-19045",
-    "notion_url": "https://www.notion.so/glise-Saint-Joseph-des-Carmes-First-Duel-of-the-Musketeers-3358324cdc4a81ad89b9d3932b94dfaf"
+    "notion_url": "https://app.notion.com/glise-Saint-Joseph-des-Carmes-First-Duel-of-the-Musketeers-3358324cdc4a81ad89b9d3932b94dfaf"
   },
   {
     "id": "3358324c-dc4a-81ae-817e-e48af18b93c0",
     "name": "54 Rue des Petites Écuries — Fake House",
     "lat": 48.8740112,
     "lng": 2.3487872,
-    "address": "54 Rue des Petites Écuries",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -1503,14 +1503,14 @@
     "summary": "A false façade in the 10th arrondissement concealing infrastructure behind a realistic residential frontage. Rue des Petites Écuries (Street of the Small Stables) is named after the royal stables of Louis XIV that once stood in this neighbourhood.",
     "time_period": "",
     "source_link": "https://www.google.com/maps/search/54+Rue+des+Petites+Ecuries+75010+Paris",
-    "notion_url": "https://www.notion.so/54-Rue-des-Petites-curies-Fake-House-3358324cdc4a81ae817ee48af18b93c0"
+    "notion_url": "https://app.notion.com/54-Rue-des-Petites-curies-Fake-House-3358324cdc4a81ae817ee48af18b93c0"
   },
   {
     "id": "3358324c-dc4a-81b0-9bf5-ef35d2b58570",
     "name": "Rue Férou — Athos’s Lodging",
     "lat": 48.8495676,
     "lng": 2.3340229,
-    "address": "Rue Férou",
+    "address": "",
     "type": "Film / literature",
     "tags": [
       "Latin Quarter"
@@ -1518,14 +1518,14 @@
     "summary": "Dumas places Athos — the most noble and melancholic of the three musketeers, a man with a tragic secret — in “two small, well-furnished rooms in a furnished house” on Rue Férou, just steps from the Luxembourg Gardens. The street is a short, quiet cut between Rue de Vaugirard and Place Saint-Sulpice. In 1971, Man Ray died at no. 6 — and Hemingway had lived at no. 6 in the early 1920s, in a one-room flat above a sawmill, writing the stories that became In Our Time.",
     "time_period": "1625 (fictional)",
     "source_link": "https://www.paris.fr/pages/une-balade-sur-les-pas-des-mousquetaires-19045",
-    "notion_url": "https://www.notion.so/Rue-F-rou-Athos-s-Lodging-3358324cdc4a81b09bf5ef35d2b58570"
+    "notion_url": "https://app.notion.com/Rue-F-rou-Athos-s-Lodging-3358324cdc4a81b09bf5ef35d2b58570"
   },
   {
     "id": "3358324c-dc4a-81c4-b9a8-dd125a8e4b8c",
     "name": "Fontaine Saint-Sulpice",
     "lat": 48.8508692,
     "lng": 2.3332775,
-    "address": "Fontaine Saint-Sulpice",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "Latin Quarter"
@@ -1533,14 +1533,14 @@
     "summary": "Built 1843–48 by architect Louis Visconti on Napoleon’s orders, this monumental fountain features four bishops of Louis XIV’s reign facing the cardinal points — none of whom ever became cardinals, hence its Parisian nickname “Les Quatre-Points-Cardinaux” (the four non-cardinals). Three tiers with lion sculptures holding Paris’s coat of arms, water pouring from medieval theatre masks. Dan Brown used the church and fountain as a central location in The Da Vinci Code (2003), bringing international attention to a previously overlooked corner of the 6th arrondissement.",
     "time_period": "1843–1848",
     "source_link": "https://www.google.com/maps/search/Fontaine+Saint-Sulpice+Place+Saint-Sulpice+Paris",
-    "notion_url": "https://www.notion.so/Fontaine-Saint-Sulpice-3358324cdc4a81c4b9a8dd125a8e4b8c"
+    "notion_url": "https://app.notion.com/Fontaine-Saint-Sulpice-3358324cdc4a81c4b9a8dd125a8e4b8c"
   },
   {
     "id": "3358324c-dc4a-81c8-895e-cf6db98efef0",
     "name": "3 Rue de l’Aqueduc — Fake House",
     "lat": 48.8797553,
     "lng": 2.3581492,
-    "address": "3 Rue de l’Aqueduc",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -1548,27 +1548,27 @@
     "summary": "A fake residential façade in the 10th arrondissement, built to mask technical infrastructure behind a convincing Haussmann-style frontage. The street name — Rue de l’Aqueduc — is itself a clue: it follows the route of one of the ancient aqueducts that once supplied Paris with water from the south.",
     "time_period": "",
     "source_link": "https://www.google.com/maps/search/3+Rue+de+l+Aqueduc+75010+Paris",
-    "notion_url": "https://www.notion.so/3-Rue-de-l-Aqueduc-Fake-House-3358324cdc4a81c8895ecf6db98efef0"
+    "notion_url": "https://app.notion.com/3-Rue-de-l-Aqueduc-Fake-House-3358324cdc4a81c8895ecf6db98efef0"
   },
   {
     "id": "3358324c-dc4a-81c8-ae91-e0fba61e3bde",
     "name": "135 Rue Saint-Denis — Porte Saint-Denis (Medieval)",
     "lat": 48.8638944,
     "lng": 2.3499349,
-    "address": "135 Rue Saint-Denis",
+    "address": "",
     "type": "Architecture",
     "tags": [],
     "summary": "Site of the original medieval Porte Saint-Denis of Philippe Auguste’s Right Bank wall — not to be confused with the triumphal arch of the same name built by Louis XIV in 1672, which stands 300m to the north. This was the main northern gate of the city on the road to Saint-Denis and the royal abbey. Charles V later extended the wall northward, making this gate an interior crossing. Demolished in the 16th century.",
     "time_period": "1190–16th century",
     "source_link": "https://www.google.com/maps/search/135+Rue+Saint-Denis+75001+Paris",
-    "notion_url": "https://www.notion.so/135-Rue-Saint-Denis-Porte-Saint-Denis-Medieval-3358324cdc4a81c8ae91e0fba61e3bde"
+    "notion_url": "https://app.notion.com/135-Rue-Saint-Denis-Porte-Saint-Denis-Medieval-3358324cdc4a81c8ae91e0fba61e3bde"
   },
   {
     "id": "3358324c-dc4a-81d0-afea-cc3e4aa72517",
     "name": "47 Rue Descartes — Porte Bordelles / Left Bank Gate",
     "lat": 48.8452094,
     "lng": 2.3491753,
-    "address": "47 Rue Descartes",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "Latin Quarter"
@@ -1576,14 +1576,14 @@
     "summary": "Site on the Left Bank corresponding to a postern gate of Philippe Auguste’s wall, near the old Rue de la Montagne-Sainte-Geneviève axis. Paul Verlaine died in a hotel at no. 39 in 1896; Ernest Hemingway lived nearby on Rue du Cardinal Lemoine. The street preserves the ancient topography of the Sainte-Geneviève hill, where the wall ran along the ridge before descending back toward the Seine.",
     "time_period": "1190–1215",
     "source_link": "https://www.google.com/maps/search/47+Rue+Descartes+75005+Paris",
-    "notion_url": "https://www.notion.so/47-Rue-Descartes-Porte-Bordelles-Left-Bank-Gate-3358324cdc4a81d0afeacc3e4aa72517"
+    "notion_url": "https://app.notion.com/47-Rue-Descartes-Porte-Bordelles-Left-Bank-Gate-3358324cdc4a81d0afeacc3e4aa72517"
   },
   {
     "id": "3358324c-dc4a-81d2-9d5f-e061b71d5b94",
     "name": "25 Rue de Vaugirard — Aramis (Les Trois Mousquetaires)",
     "lat": 48.8484067,
     "lng": 2.3318163,
-    "address": "25 Rue de Vaugirard",
+    "address": "",
     "type": "Person lived here",
     "tags": [
       "Latin Quarter"
@@ -1591,14 +1591,14 @@
     "summary": "In Alexandre Dumas’s The Three Musketeers (1844), this is the address of Aramis — the most refined and devout of the four musketeers, who disguises his clerical ambitions under a soldier’s cape. Dumas was meticulous with Paris geography and used real streets. Rue de Vaugirard is the longest street in Paris (4.36km), running through the 6th and 15th arrondissements past the Luxembourg Gardens.",
     "time_period": "1620s (fictional)",
     "source_link": "https://www.google.com/maps/search/25+Rue+de+Vaugirard+Paris",
-    "notion_url": "https://www.notion.so/25-Rue-de-Vaugirard-Aramis-Les-Trois-Mousquetaires-3358324cdc4a81d29d5fe061b71d5b94"
+    "notion_url": "https://app.notion.com/25-Rue-de-Vaugirard-Aramis-Les-Trois-Mousquetaires-3358324cdc4a81d29d5fe061b71d5b94"
   },
   {
     "id": "3358324c-dc4a-81d2-bdd0-edbc36c22f40",
     "name": "101 Rue Saint-Antoine — Porte Saint-Antoine",
     "lat": 48.8548774,
     "lng": 2.3613812,
-    "address": "101 Rue Saint-Antoine",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "Marais"
@@ -1606,14 +1606,14 @@
     "summary": "Site of the Porte Saint-Antoine, the easternmost gate of Philippe Auguste’s Right Bank wall, positioned on the road to Vincennes. The Bastille fortress was built just outside this gate in 1357–83, originally to defend it. The gate was demolished when the Bastille replaced it as the city’s eastern defence. The entire area around the modern Place de la Bastille sits at the junction of the medieval wall and the road this gate controlled.",
     "time_period": "1190–14th century",
     "source_link": "https://www.google.com/maps/search/101+Rue+Saint-Antoine+75004+Paris",
-    "notion_url": "https://www.notion.so/101-Rue-Saint-Antoine-Porte-Saint-Antoine-3358324cdc4a81d2bdd0edbc36c22f40"
+    "notion_url": "https://app.notion.com/101-Rue-Saint-Antoine-Porte-Saint-Antoine-3358324cdc4a81d2bdd0edbc36c22f40"
   },
   {
     "id": "3358324c-dc4a-81d8-b42d-fc81f4836619",
     "name": "6 Place des Vosges — Milady de Winter’s Residence",
     "lat": 48.854799,
     "lng": 2.3661358,
-    "address": "6 Place des Vosges",
+    "address": "",
     "type": "Film / literature",
     "tags": [
       "Marais"
@@ -1621,14 +1621,14 @@
     "summary": "Dumas places Milady de Winter — the Cardinal’s beautiful, ruthless and branded spy, arguably the novel’s most compelling character — at no. 6 of what he calls la place Royale, “then the most fashionable quarter.” The real no. 6 was the house of Victor Hugo from 1832 to 1848, now the Maison de Victor Hugo museum. The Place des Vosges, completed in 1612 under Henri IV, was indeed the most prestigious address in Paris in the 1620s — Dumas’s choice was historically precise.",
     "time_period": "1625 (fictional)",
     "source_link": "https://www.paris.fr/pages/une-balade-sur-les-pas-des-mousquetaires-19045",
-    "notion_url": "https://www.notion.so/6-Place-des-Vosges-Milady-de-Winter-s-Residence-3358324cdc4a81d8b42dfc81f4836619"
+    "notion_url": "https://app.notion.com/6-Place-des-Vosges-Milady-de-Winter-s-Residence-3358324cdc4a81d8b42dfc81f4836619"
   },
   {
     "id": "3358324c-dc4a-81da-8e13-cf6561da33b2",
     "name": "8 Rue Amyot — Jeanne Hébuterne’s Last Home",
     "lat": 48.8435385,
     "lng": 2.3474881,
-    "address": "8 Rue Amyot",
+    "address": "",
     "type": "Person lived here",
     "tags": [
       "Latin Quarter"
@@ -1636,14 +1636,14 @@
     "summary": "The family home of Jeanne Hébuterne, Modigliani’s companion and muse. After Modigliani died at 8 Rue de la Grande Chaumière on January 24, 1920, the nine-months-pregnant Jeanne returned here to her parents’ apartment. The following morning she threw herself from the fifth-floor window. She was 21. She and Modigliani are buried together in Père-Lachaise. Her family, who had never accepted the relationship, initially refused to allow her to be buried alongside him; they relented ten years later.",
     "time_period": "1920",
     "source_link": "https://www.google.com/maps/search/8+Rue+Amyot+75005+Paris",
-    "notion_url": "https://www.notion.so/8-Rue-Amyot-Jeanne-H-buterne-s-Last-Home-3358324cdc4a81da8e13cf6561da33b2"
+    "notion_url": "https://app.notion.com/8-Rue-Amyot-Jeanne-H-buterne-s-Last-Home-3358324cdc4a81da8e13cf6561da33b2"
   },
   {
     "id": "3358324c-dc4a-81de-9eb5-da6d87c7455b",
     "name": "53 Rue des Archives — Fake House",
     "lat": 48.0736008,
     "lng": -0.7591048,
-    "address": "53 Rue des Archives",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost",
@@ -1652,14 +1652,14 @@
     "summary": "A false façade on Rue des Archives in the Marais, hiding infrastructure behind a Haussmann-style residential front. Rue des Archives runs through the heart of the historic Jewish quarter of Paris and past the Archives nationales, one of the oldest archive repositories in Europe.",
     "time_period": "",
     "source_link": "https://www.google.com/maps/search/53+Rue+des+Archives+75003+Paris",
-    "notion_url": "https://www.notion.so/53-Rue-des-Archives-Fake-House-3358324cdc4a81de9eb5da6d87c7455b"
+    "notion_url": "https://app.notion.com/53-Rue-des-Archives-Fake-House-3358324cdc4a81de9eb5da6d87c7455b"
   },
   {
     "id": "3358324c-dc4a-81e4-acd0-c56638971a91",
     "name": "78 Rue la Condamine — Fake House (Métro Line 2)",
     "lat": 48.884893,
     "lng": 2.320365,
-    "address": "78 Rue la Condamine",
+    "address": "",
     "type": "Curiosity",
     "tags": [
       "#themost"
@@ -1667,14 +1667,14 @@
     "summary": "One of Paris’s most famous fake houses — a Haussmann-era façade with painted windows and no depth behind it, concealing a ventilation and access shaft for Métro Line 2. Built when the underground line was constructed in the early 1900s, it was designed to blend seamlessly into the neighbourhood streetscape. The windows are painted trompe-l’œil, the shutters are fixed. Passers-by rarely notice.",
     "time_period": "1900s",
     "source_link": "https://www.google.com/maps/search/78+Rue+la+Condamine+75017+Paris",
-    "notion_url": "https://www.notion.so/78-Rue-la-Condamine-Fake-House-M-tro-Line-2-3358324cdc4a81e4acd0c56638971a91"
+    "notion_url": "https://app.notion.com/78-Rue-la-Condamine-Fake-House-M-tro-Line-2-3358324cdc4a81e4acd0c56638971a91"
   },
   {
     "id": "3358324c-dc4a-81f8-83b8-f8d759f7d82a",
     "name": "172 Rue Saint-Jacques — Porte Saint-Jacques",
     "lat": 48.8466268,
     "lng": 2.3431181,
-    "address": "172 Rue Saint-Jacques",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "Latin Quarter"
@@ -1682,27 +1682,27 @@
     "summary": "Site of the Porte Saint-Jacques, the main southern gate of Philippe Auguste’s Left Bank wall (built 1190–1215). It stood at the intersection of the Roman road (now Rue Saint-Jacques) with the wall. Pilgrims departing for Santiago de Compostela passed through this gate. The gate was demolished in 1684. A wall section and fragments were discovered during 19th-century construction works.",
     "time_period": "1190–1684",
     "source_link": "https://www.google.com/maps/search/172+Rue+Saint-Jacques+Paris",
-    "notion_url": "https://www.notion.so/172-Rue-Saint-Jacques-Porte-Saint-Jacques-3358324cdc4a81f883b8f8d759f7d82a"
+    "notion_url": "https://app.notion.com/172-Rue-Saint-Jacques-Porte-Saint-Jacques-3358324cdc4a81f883b8f8d759f7d82a"
   },
   {
     "id": "3358324c-dc4a-81fd-ad7f-d7d347f8cb80",
     "name": "La Ruche — Foujita & the School of Paris",
     "lat": 48.8324196,
     "lng": 2.2968293,
-    "address": "La Ruche",
+    "address": "",
     "type": "Person lived here",
     "tags": [],
     "summary": "La Ruche (“The Beehive”) — a circular building with 140 small studios, constructed from cast-off materials of the 1900 World’s Fair by sculptor Alfred Boucher — became the cradle of the École de Paris. Tsuguharu Foujita (Léonard Fujita) lived and painted here after arriving from Tokyo in 1913, befriending Chagall, Léger, Soutine, Archipenko and Modigliani. They were mostly penniless, paying rent in paintings. Foujita became famous for his self-portrait style: round glasses, bowl haircut, and cats. He was baptised Catholic in 1959 and designed the Reims Chapel of Notre-Dame-de-la-Paix.",
     "time_period": "1913–1920s",
     "source_link": "https://www.google.com/maps/search/La+Ruche+2+Passage+de+Dantzig+Paris",
-    "notion_url": "https://www.notion.so/La-Ruche-Foujita-the-School-of-Paris-3358324cdc4a81fdad7fd7d347f8cb80"
+    "notion_url": "https://app.notion.com/La-Ruche-Foujita-the-School-of-Paris-3358324cdc4a81fdad7fd7d347f8cb80"
   },
   {
     "id": "3408324c-dc4a-81b2-a787-e19e95f5ff61",
     "name": "Au Vieux Paris d'Arcole — maison du chanoine (1512)",
     "lat": 48.8542243,
     "lng": 2.3502715,
-    "address": "Au Vieux Paris d'Arcole",
+    "address": "",
     "type": "Architecture",
     "tags": [
       "Marais"
@@ -1710,14 +1710,14 @@
     "summary": "Один из старейших домов Парижа, построен в 1512 году как резиденция каноника Нотр-Дам. В 1723 году продан епархией и стал баром à vin. Сейчас — ресторан аверонской кухни. Внесён в реестр исторических памятников. Знаменит глицинией 1946 года (7 м высотой) с особым разрешением мэрии. Адрес: 24, rue Chanoinesse, 75004.",
     "time_period": "1512 — наши дни",
     "source_link": "",
-    "notion_url": "https://www.notion.so/Au-Vieux-Paris-d-Arcole-maison-du-chanoine-1512-3408324cdc4a81b2a787e19e95f5ff61"
+    "notion_url": "https://app.notion.com/Au-Vieux-Paris-d-Arcole-maison-du-chanoine-1512-3408324cdc4a81b2a787e19e95f5ff61"
   },
   {
     "id": "3408324c-dc4a-81ba-9a10-d625c763b959",
     "name": "Rue des Marmousets — цирюльник и пирожник",
     "lat": 48.8360544,
     "lng": 2.3502079,
-    "address": "Rue des Marmousets",
+    "address": "",
     "type": "Crime",
     "tags": [
       "Marais"
@@ -1725,97 +1725,97 @@
     "summary": "Бывшее название rue Chanoinesse. Каноники Нотр-Дам давали кров студентам, которые начали пропадать. Выяснилось, что местный цирюльник убивал их, а пирожник по соседству пускал тела на начинку. Разоблачение произошло после того, как собака два дня выла у двери цирюльника. Одна из самых мрачных городских легенд средневекового Парижа.",
     "time_period": "Средние века",
     "source_link": "",
-    "notion_url": "https://www.notion.so/Rue-des-Marmousets-3408324cdc4a81ba9a10d625c763b959"
+    "notion_url": "https://app.notion.com/Rue-des-Marmousets-3408324cdc4a81ba9a10d625c763b959"
   },
   {
     "id": "39b9b4a4-f44e-47b8-a422-8e914bf90afa",
     "name": "Square Rapp — Art Nouveau street",
     "lat": 48.8587158,
     "lng": 2.3007988,
-    "address": "Square Rapp",
+    "address": "",
     "type": "Photo session spot",
     "tags": [],
     "summary": "Art Nouveau atmosphere + Eiffel Tower angle.",
     "time_period": "",
     "source_link": "https://www.notion.so/18c8324cdc4a8168baf9f761b5f7e16f",
-    "notion_url": "https://www.notion.so/Square-Rapp-Art-Nouveau-street-39b9b4a4f44e47b8a4228e914bf90afa"
+    "notion_url": "https://app.notion.com/Square-Rapp-Art-Nouveau-street-39b9b4a4f44e47b8a4228e914bf90afa"
   },
   {
     "id": "5a735786-5fef-4c1b-ade0-20f4b8298e83",
     "name": "Place Dalida / Rue Girardon — Montmartre view",
     "lat": 48.8885139,
     "lng": 2.3381027,
-    "address": "Place Dalida / Rue Girardon",
+    "address": "",
     "type": "Photo session spot",
     "tags": [],
     "summary": "Viewpoint over Montmartre / Sacré-Cœur area.",
     "time_period": "",
     "source_link": "https://www.notion.so/18c8324cdc4a8168baf9f761b5f7e16f",
-    "notion_url": "https://www.notion.so/Place-Dalida-Rue-Girardon-Montmartre-view-5a7357865fef4c1bade020f4b8298e83"
+    "notion_url": "https://app.notion.com/Place-Dalida-Rue-Girardon-Montmartre-view-5a7357865fef4c1bade020f4b8298e83"
   },
   {
     "id": "6c6c8bda-5407-47d6-9b22-c3c68458d245",
     "name": "Rue de l'Université — Eiffel Tower view",
     "lat": 48.8603101,
     "lng": 2.3208887,
-    "address": "Rue de l'Université",
+    "address": "",
     "type": "Photo session spot",
     "tags": [],
     "summary": "Classic street view framing the Eiffel Tower.",
     "time_period": "",
     "source_link": "https://www.notion.so/18c8324cdc4a8168baf9f761b5f7e16f",
-    "notion_url": "https://www.notion.so/Rue-de-l-Universit-Eiffel-Tower-view-6c6c8bda540747d69b22c3c68458d245"
+    "notion_url": "https://app.notion.com/Rue-de-l-Universit-Eiffel-Tower-view-6c6c8bda540747d69b22c3c68458d245"
   },
   {
     "id": "82971e74-c6d2-4516-9d30-a7ee1de87f75",
     "name": "Petit Palais — golden door & courtyard",
     "lat": 48.866042,
     "lng": 2.3153496,
-    "address": "Petit Palais",
+    "address": "",
     "type": "Photo session spot",
     "tags": [],
     "summary": "Famous golden gate; intimate inner courtyard.",
     "time_period": "",
     "source_link": "https://www.notion.so/18c8324cdc4a8168baf9f761b5f7e16f",
-    "notion_url": "https://www.notion.so/Petit-Palais-golden-door-courtyard-82971e74c6d245169d30a7ee1de87f75"
+    "notion_url": "https://app.notion.com/Petit-Palais-golden-door-courtyard-82971e74c6d245169d30a7ee1de87f75"
   },
   {
     "id": "978c20e3-1a70-41a7-84d8-ceb089a0d74f",
     "name": "Pont de Bir-Hakeim — cinematic bridge",
     "lat": 48.8557254,
     "lng": 2.2875477,
-    "address": "Pont de Bir-Hakeim",
+    "address": "",
     "type": "Photo session spot",
     "tags": [],
     "summary": "Iconic bridge used in films; strong lines for photos.",
     "time_period": "",
     "source_link": "https://www.notion.so/18c8324cdc4a8168baf9f761b5f7e16f",
-    "notion_url": "https://www.notion.so/Pont-de-Bir-Hakeim-cinematic-bridge-978c20e31a7041a784d8ceb089a0d74f"
+    "notion_url": "https://app.notion.com/Pont-de-Bir-Hakeim-cinematic-bridge-978c20e31a7041a784d8ceb089a0d74f"
   },
   {
     "id": "d1a7ab75-3910-4cb2-bf44-7f080f34c72c",
     "name": "Grande Mosquée de Paris — courtyard & garden",
     "lat": 48.8420709,
     "lng": 2.3551029,
-    "address": "Grande Mosquée de Paris",
+    "address": "",
     "type": "Photo session spot",
     "tags": [],
     "summary": "Wisteria in spring; beautiful mosaic courtyard year-round.",
     "time_period": "",
     "source_link": "https://www.notion.so/18c8324cdc4a8168baf9f761b5f7e16f",
-    "notion_url": "https://www.notion.so/Grande-Mosqu-e-de-Paris-courtyard-garden-d1a7ab7539104cb2bf447f080f34c72c"
+    "notion_url": "https://app.notion.com/Grande-Mosqu-e-de-Paris-courtyard-garden-d1a7ab7539104cb2bf447f080f34c72c"
   },
   {
     "id": "efe686ab-7f6d-4b31-90ce-35f2a2134505",
     "name": "Pont de Bercy — bridge perspective",
     "lat": 48.8380509,
     "lng": 2.3748808,
-    "address": "Pont de Bercy",
+    "address": "",
     "type": "Photo session spot",
     "tags": [],
     "summary": "Strong perspective lines; dynamic background.",
     "time_period": "",
     "source_link": "https://www.notion.so/18c8324cdc4a8168baf9f761b5f7e16f",
-    "notion_url": "https://www.notion.so/Pont-de-Bercy-bridge-perspective-efe686ab7f6d4b3190ce35f2a2134505"
+    "notion_url": "https://app.notion.com/Pont-de-Bercy-bridge-perspective-efe686ab7f6d4b3190ce35f2a2134505"
   }
 ]
