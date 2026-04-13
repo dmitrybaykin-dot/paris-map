@@ -1,5 +1,8 @@
 {
-  "last_sync": "2026-04-13T08:53:16.790Z",
+  "last_sync": "2026-04-13T09:11:37.528Z",
   "total_pages": 169,
-  "locations_with_coords": 0
+  "on_map": 0,
+  "cache_hits": 0,
+  "freshly_geocoded": 0,
+  "missing": 169
 }
