@@ -12,7 +12,7 @@
  */
 
 const NOTION_API_KEY = process.env.NOTION_API_KEY;
-const DATABASE_ID = process.env.DATABASE_ID || '29ada985a7cf4d129c71e5217168096c';
+const DATABASE_ID = process.env.DATABASE_ID || 'c2dc61fb15b64b348ec0f395cce32dfb';
 
 if (!NOTION_API_KEY) {
   console.error('❌ NOTION_API_KEY is required');
