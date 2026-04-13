@@ -1,12 +1,13 @@
 /**
  * fetch-notion.js
  * Pulls all pages from the Paris Locations Notion database,
- * geocodes the Address field via Nominatim (OpenStreetMap),
- * and writes data/locations.json for the map.
+ * geocodes via Nominatim (OpenStreetMap), and writes
+ * data/locations.json for the map.
  *
- * Free, no API keys needed (besides Notion).
- * Geocode results are cached in data/geocache.json so Nominatim
- * is only called for new or changed addresses.
+ * Address resolution (in order):
+ *   1. "Address" text field (if filled in Notion)
+ *   2. Geocode cache (data/geocache.json)
+ *   3. Auto-extract from page Name (part before " — ") + ", Paris, France"
  *
  * Usage:
  *   NOTION_API_KEY=secret_xxx node scripts/fetch-notion.js
@@ -68,12 +69,43 @@ function extractText(richTextArray) {
   return richTextArray.map(r => r.plain_text || '').join('');
 }
 
+/**
+ * Try to get address from any property format the API might return.
+ */
+function extractAddress(addrProp) {
+  if (!addrProp) return '';
+
+  // Standard rich_text
+  if (addrProp.rich_text) {
+    return extractText(addrProp.rich_text);
+  }
+
+  // Plain string (shouldn't happen but just in case)
+  if (typeof addrProp === 'string') return addrProp;
+
+  // Maybe it's a different type - try common shapes
+  if (addrProp.plain_text) return addrProp.plain_text;
+  if (addrProp.title) return extractText(addrProp.title);
+  if (addrProp.url) return addrProp.url;
+  if (addrProp.string) return addrProp.string;
+
+  // Last resort: check for a nested array with plain_text
+  for (const key of Object.keys(addrProp)) {
+    const val = addrProp[key];
+    if (Array.isArray(val) && val.length > 0 && val[0].plain_text) {
+      return val.map(r => r.plain_text || '').join('');
+    }
+  }
+
+  return '';
+}
+
 function parsePage(page) {
   const p = page.properties;
   return {
     id: page.id,
     name: extractText(p['Name']?.title),
-    address: extractText(p['Address']?.rich_text),
+    address: extractAddress(p['Address']),
     summary: extractText(p['Summary']?.rich_text),
     time_period: extractText(p['Time period']?.rich_text),
     type: p['Type']?.select?.name || '',
@@ -81,6 +113,16 @@ function parsePage(page) {
     source_link: p['Source link']?.url || '',
     notion_url: page.url,
   };
+}
+
+// ── Address extraction from Name ────────────────────────────
+
+function extractAddressFromName(name) {
+  if (!name) return '';
+  let candidate = name.split(/\s[—–-]\s/)[0].trim();
+  candidate = candidate.replace(/^[\u{1F000}-\u{1FFFF}\u{2600}-\u{27BF}\u{FE00}-\u{FEFF}]\s*/u, '');
+  if (candidate.length < 3) return '';
+  return candidate + ', Paris, France';
 }
 
 // ── Geocoding ───────────────────────────────────────────────
@@ -101,9 +143,9 @@ function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
 }
 
-async function geocode(address) {
+async function geocode(query) {
   const url = 'https://nominatim.openstreetmap.org/search?' + new URLSearchParams({
-    q: address,
+    q: query,
     format: 'json',
     limit: '1',
     countrycodes: 'fr'
@@ -114,15 +156,12 @@ async function geocode(address) {
   });
 
   if (!res.ok) {
-    console.warn(`   ⚠️  Nominatim ${res.status} for "${address}"`);
+    console.warn(`   ⚠️  Nominatim ${res.status} for "${query}"`);
     return null;
   }
 
   const data = await res.json();
-  if (!data.length) {
-    console.warn(`   ⚠️  No geocode results for "${address}"`);
-    return null;
-  }
+  if (!data.length) return null;
 
   return {
     lat: parseFloat(data[0].lat),
@@ -137,37 +176,60 @@ async function main() {
   const pages = await queryAll();
   console.log(`   ${pages.length} pages found\n`);
 
+  // ═══ DEBUG: Show raw properties of the first page ═══
+  if (pages.length > 0) {
+    const firstProps = pages[0].properties;
+    console.log('═══ DEBUG: First page property names & types ═══');
+    for (const [key, val] of Object.entries(firstProps)) {
+      console.log(`   "${key}" → type: "${val.type}"`);
+    }
+
+    const addr = firstProps['Address'];
+    if (addr) {
+      console.log('\n═══ DEBUG: Raw "Address" property ═══');
+      console.log(JSON.stringify(addr, null, 2));
+    } else {
+      console.log('\n⚠️  DEBUG: No "Address" property found!');
+      console.log('   Available properties:', Object.keys(firstProps).join(', '));
+    }
+    console.log('═══════════════════════════════════════════\n');
+  }
+
   const parsed = pages.map(parsePage);
   const cache = loadCache();
   let cacheHits = 0;
-  let geocoded = 0;
+  let geocodedNew = 0;
+  let failed = 0;
 
   const locations = [];
 
   for (const loc of parsed) {
-    if (!loc.address) {
-      console.warn(`   ❌ No address: "${loc.name}"`);
+    let query = loc.address || extractAddressFromName(loc.name);
+
+    if (!query) {
+      console.warn(`   ❌ Can't resolve: "${loc.name}"`);
+      failed++;
       continue;
     }
 
     let lat, lng;
 
-    // Check cache first
-    if (cache[loc.address]) {
-      lat = cache[loc.address].lat;
-      lng = cache[loc.address].lng;
+    if (cache[query]) {
+      lat = cache[query].lat;
+      lng = cache[query].lng;
       cacheHits++;
     } else {
-      // Geocode (respect Nominatim 1 req/sec limit)
       await sleep(1100);
-      const result = await geocode(loc.address);
+      const result = await geocode(query);
       if (result) {
         lat = result.lat;
         lng = result.lng;
-        cache[loc.address] = { lat, lng };
-        geocoded++;
-        console.log(`   🌐 Geocoded: "${loc.name}" → ${lat}, ${lng}`);
+        cache[query] = { lat, lng };
+        geocodedNew++;
+        console.log(`   🌐 "${loc.name}" → ${lat}, ${lng}`);
       } else {
+        console.warn(`   ⚠️  Geocode failed: "${loc.name}" (query: "${query}")`);
+        failed++;
         continue;
       }
     }
@@ -177,7 +239,7 @@ async function main() {
       name: loc.name,
       lat,
       lng,
-      address: loc.address,
+      address: loc.address || query.replace(', Paris, France', ''),
       type: loc.type,
       tags: loc.tags,
       summary: loc.summary,
@@ -187,29 +249,25 @@ async function main() {
     });
   }
 
-  // Save geocode cache
   saveCache(cache);
 
-  // Write locations.json
   if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
   fs.writeFileSync(path.join(DATA_DIR, 'locations.json'), JSON.stringify(locations, null, 2));
 
-  // Meta
-  const missing = parsed.length - locations.length;
   fs.writeFileSync(path.join(DATA_DIR, 'meta.json'), JSON.stringify({
     last_sync: new Date().toISOString(),
     total_pages: pages.length,
     on_map: locations.length,
     cache_hits: cacheHits,
-    freshly_geocoded: geocoded,
-    missing
+    freshly_geocoded: geocodedNew,
+    failed
   }, null, 2));
 
   console.log(`\n✅ Done!`);
-  console.log(`   📍 ${locations.length}/${parsed.length} locations on map`);
-  console.log(`   💾 ${cacheHits} from cache, 🌐 ${geocoded} freshly geocoded`);
-  if (missing > 0) {
-    console.log(`   ❌ ${missing} missing — fill in the Address field in Notion`);
+  console.log(`   📍 ${locations.length}/${parsed.length} on map`);
+  console.log(`   💾 ${cacheHits} cached, 🌐 ${geocodedNew} geocoded`);
+  if (failed > 0) {
+    console.log(`   ❌ ${failed} failed — fill Address field in Notion for these`);
   }
 }
 
