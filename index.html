@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Paris Locations</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --bg: #1a1714;
+    --surface: #242018;
+    --text: #e8e0d4;
+    --text-dim: #9a9083;
+    --accent: #c9a96e;
+    --accent-dim: rgba(201,169,110,0.15);
+
+    /* Type colors matching Notion */
+    --color-photo: #2d8a4e;
+    --color-person: #7c3aed;
+    --color-event: #dc2626;
+    --color-culture: #db2777;
+    --color-architecture: #2563eb;
+    --color-film: #ea580c;
+    --color-curiosity: #ca8a04;
+    --color-crime: #78716c;
+    --color-oldphoto: #6b7280;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ── Header ── */
+  header {
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--surface);
+    border-bottom: 1px solid rgba(201,169,110,0.12);
+    z-index: 1000;
+    flex-shrink: 0;
+  }
+  header h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.3rem;
+    letter-spacing: 0.02em;
+    color: var(--accent);
+  }
+  header .count {
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    background: var(--accent-dim);
+    padding: 4px 10px;
+    border-radius: 20px;
+  }
+
+  /* ── Filter bar ── */
+  .filters {
+    padding: 10px 24px;
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    background: var(--surface);
+    border-bottom: 1px solid rgba(201,169,110,0.08);
+    z-index: 1000;
+    flex-shrink: 0;
+  }
+  .filter-btn {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 500;
+    padding: 5px 12px;
+    border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.08);
+    background: transparent;
+    color: var(--text-dim);
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+  .filter-btn:hover { border-color: var(--accent); color: var(--text); }
+  .filter-btn.active {
+    background: var(--accent);
+    color: var(--bg);
+    border-color: var(--accent);
+  }
+
+  /* ── Search ── */
+  .search-wrap {
+    padding: 10px 24px;
+    background: var(--surface);
+    border-bottom: 1px solid rgba(201,169,110,0.08);
+    z-index: 1000;
+    flex-shrink: 0;
+  }
+  .search-wrap input {
+    width: 100%;
+    padding: 8px 14px;
+    border-radius: 8px;
+    border: 1px solid rgba(255,255,255,0.08);
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.85rem;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .search-wrap input::placeholder { color: var(--text-dim); }
+  .search-wrap input:focus { border-color: var(--accent); }
+
+  /* ── Map ── */
+  #map {
+    flex: 1;
+    z-index: 1;
+  }
+
+  /* Leaflet popup override */
+  .leaflet-popup-content-wrapper {
+    background: var(--surface) !important;
+    color: var(--text) !important;
+    border-radius: 12px !important;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.5) !important;
+    border: 1px solid rgba(201,169,110,0.15) !important;
+    max-width: 280px;
+  }
+  .leaflet-popup-tip { background: var(--surface) !important; }
+  .leaflet-popup-content { margin: 14px 16px !important; font-size: 0.85rem; line-height: 1.5; }
+  .leaflet-popup-close-button { color: var(--text-dim) !important; font-size: 20px !important; }
+
+  .popup-type {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 6px;
+  }
+  .popup-name {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1rem;
+    margin-bottom: 6px;
+    color: var(--accent);
+  }
+  .popup-summary {
+    color: var(--text-dim);
+    font-size: 0.8rem;
+    line-height: 1.5;
+  }
+  .popup-address {
+    color: var(--text-dim);
+    font-size: 0.72rem;
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px solid rgba(255,255,255,0.06);
+  }
+  .popup-link {
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 0.75rem;
+    color: var(--accent);
+    text-decoration: none;
+  }
+  .popup-link:hover { text-decoration: underline; }
+  .popup-tags {
+    margin-top: 6px;
+    display: flex;
+    gap: 4px;
+    flex-wrap: wrap;
+  }
+  .popup-tag {
+    font-size: 0.62rem;
+    padding: 1px 6px;
+    border-radius: 3px;
+    background: var(--accent-dim);
+    color: var(--text-dim);
+  }
+
+  /* Custom circle markers */
+  .custom-marker {
+    border-radius: 50%;
+    border: 2px solid rgba(255,255,255,0.6);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+    transition: transform 0.15s;
+  }
+  .custom-marker:hover { transform: scale(1.3); }
+
+  /* Loading / Error states */
+  .overlay-msg {
+    position: fixed;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 2000;
+    background: var(--surface);
+    padding: 24px 32px;
+    border-radius: 12px;
+    border: 1px solid rgba(201,169,110,0.15);
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--text-dim);
+  }
+  .overlay-msg.hidden { display: none; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Paris Locations</h1>
+  <span class="count" id="counter">…</span>
+</header>
+
+<div class="search-wrap">
+  <input type="text" id="search" placeholder="Search locations…" autocomplete="off">
+</div>
+
+<div class="filters" id="filters"></div>
+
+<div id="map"></div>
+<div class="overlay-msg" id="loading">Loading locations…</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(function() {
+  // ── Config ──
+  const DATA_URL = 'data/locations.json';
+  const PARIS_CENTER = [48.8566, 2.3522];
+  const DEFAULT_ZOOM = 13;
+
+  const TYPE_COLORS = {
+    'Photo session spot': '#2d8a4e',
+    'Person lived here':  '#7c3aed',
+    'Historical event':   '#dc2626',
+    'Cultural / arts':    '#db2777',
+    'Architecture':       '#2563eb',
+    'Film / literature':  '#ea580c',
+    'Curiosity':          '#ca8a04',
+    'Crime':              '#78716c',
+    'Old photo':          '#6b7280'
+  };
+
+  // ── Init map ──
+  const map = L.map('map', {
+    center: PARIS_CENTER,
+    zoom: DEFAULT_ZOOM,
+    zoomControl: false
+  });
+
+  L.control.zoom({ position: 'bottomright' }).addTo(map);
+
+  // CartoDB dark tiles — free, beautiful, no API key
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://carto.com/">CARTO</a> &copy; <a href="https://osm.org/copyright">OSM</a>',
+    subdomains: 'abcd',
+    maxZoom: 19
+  }).addTo(map);
+
+  // ── State ──
+  let allLocations = [];
+  let markers = [];
+  let activeTypes = new Set();
+
+  // ── Helpers ──
+  function makeMarker(loc) {
+    const color = TYPE_COLORS[loc.type] || '#999';
+    const icon = L.divIcon({
+      className: 'custom-marker',
+      html: `<div style="width:12px;height:12px;background:${color};border-radius:50%;border:2px solid rgba(255,255,255,0.6);"></div>`,
+      iconSize: [12, 12],
+      iconAnchor: [6, 6]
+    });
+
+    const m = L.marker([loc.lat, loc.lng], { icon });
+
+    let html = '';
+    if (loc.type) {
+      const c = TYPE_COLORS[loc.type] || '#999';
+      html += `<div class="popup-type" style="background:${c}22;color:${c};">${loc.type}</div>`;
+    }
+    html += `<div class="popup-name">${loc.name}</div>`;
+    if (loc.summary) html += `<div class="popup-summary">${loc.summary}</div>`;
+    if (loc.tags && loc.tags.length) {
+      html += `<div class="popup-tags">${loc.tags.map(t => `<span class="popup-tag">${t}</span>`).join('')}</div>`;
+    }
+    if (loc.address) html += `<div class="popup-address">📍 ${loc.address}</div>`;
+    if (loc.source_link) html += `<a class="popup-link" href="${loc.source_link}" target="_blank" rel="noopener">Source →</a>`;
+
+    m.bindPopup(html, { maxWidth: 280 });
+    m._locData = loc;
+    return m;
+  }
+
+  function render() {
+    const query = document.getElementById('search').value.toLowerCase().trim();
+
+    markers.forEach(m => map.removeLayer(m));
+    markers = [];
+
+    let count = 0;
+    allLocations.forEach(loc => {
+      // Type filter
+      if (activeTypes.size > 0 && !activeTypes.has(loc.type)) return;
+      // Search filter
+      if (query) {
+        const haystack = [loc.name, loc.summary, loc.address, loc.type, ...(loc.tags||[])].join(' ').toLowerCase();
+        if (!haystack.includes(query)) return;
+      }
+      const m = makeMarker(loc);
+      m.addTo(map);
+      markers.push(m);
+      count++;
+    });
+
+    document.getElementById('counter').textContent = `${count} / ${allLocations.length}`;
+  }
+
+  function buildFilters() {
+    const types = [...new Set(allLocations.map(l => l.type).filter(Boolean))].sort();
+    const container = document.getElementById('filters');
+    container.innerHTML = '';
+
+    // "All" button
+    const allBtn = document.createElement('button');
+    allBtn.className = 'filter-btn active';
+    allBtn.textContent = 'All';
+    allBtn.onclick = () => {
+      activeTypes.clear();
+      container.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      allBtn.classList.add('active');
+      render();
+    };
+    container.appendChild(allBtn);
+
+    types.forEach(type => {
+      const btn = document.createElement('button');
+      btn.className = 'filter-btn';
+      const color = TYPE_COLORS[type] || '#999';
+      btn.innerHTML = `<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${color};margin-right:4px;vertical-align:middle;"></span>${type}`;
+      btn.onclick = () => {
+        if (activeTypes.has(type)) {
+          activeTypes.delete(type);
+          btn.classList.remove('active');
+        } else {
+          activeTypes.add(type);
+          btn.classList.add('active');
+        }
+        // Deselect "All" if something specific is active
+        if (activeTypes.size > 0) allBtn.classList.remove('active');
+        else allBtn.classList.add('active');
+        render();
+      };
+      container.appendChild(btn);
+    });
+  }
+
+  // ── Load data ──
+  fetch(DATA_URL)
+    .then(r => {
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      return r.json();
+    })
+    .then(data => {
+      allLocations = data.filter(d => d.lat && d.lng);
+      document.getElementById('loading').classList.add('hidden');
+      buildFilters();
+      render();
+    })
+    .catch(err => {
+      document.getElementById('loading').innerHTML =
+        `<strong>Could not load locations</strong><br><br>
+         <span style="font-size:0.8rem;">Make sure <code>data/locations.json</code> exists.<br>
+         Run the GitHub Action or <code>node scripts/fetch-notion.js</code> locally.</span>`;
+      console.error(err);
+    });
+
+  // ── Events ──
+  document.getElementById('search').addEventListener('input', render);
+})();
+</script>
+</body>
+</html>
