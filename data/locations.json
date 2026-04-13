@@ -1,0 +1,15 @@
+[
+  {
+    "id": "sample",
+    "name": "Sample — replace with real data by running the sync",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "address": "Paris, France",
+    "type": "Curiosity",
+    "tags": [],
+    "summary": "Run the GitHub Action or 'node scripts/fetch-notion.js' to populate this with your Notion data.",
+    "time_period": "",
+    "source_link": "",
+    "notion_url": ""
+  }
+]
