@@ -498,5 +498,13 @@
   "Pont de Bercy, Paris, France": {
     "lat": 48.8380509,
     "lng": 2.3748808
+  },
+  "Rue des Mauvais-Garçons, 75004 Paris": {
+    "lat": 48.8568886,
+    "lng": 2.3551299
+  },
+  "Marché aux fleurs Reine-Elizabeth-II (Île de la Cité), Paris, France": {
+    "lat": 48.8554644,
+    "lng": 2.3476602
   }
 }
