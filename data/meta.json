@@ -1,9 +1,9 @@
 {
-  "last_sync": "2026-04-21T03:20:05.270Z",
-  "total": 170,
-  "on_map": 129,
+  "last_sync": "2026-04-21T08:02:12.653Z",
+  "total": 171,
+  "on_map": 130,
   "from_place": 0,
   "from_cache": 129,
-  "geocoded": 0,
+  "geocoded": 1,
   "failed": 41
 }
