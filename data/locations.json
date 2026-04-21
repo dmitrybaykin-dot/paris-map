@@ -1743,6 +1743,21 @@
     "notion_url": "https://www.notion.so/Rue-des-Mauvais-Gar-ons-3418324cdc4a81d78e01d705c530849f"
   },
   {
+    "id": "3498324c-dc4a-811b-b3ce-f2be02651e24",
+    "name": "Amphithéâtre de la Première Académie de Médecine",
+    "lat": 48.8519262,
+    "lng": 2.3484205,
+    "address": "13 rue de la Bûcherie, Paris 75005",
+    "type": "Architecture",
+    "tags": [
+      "Latin Quarter"
+    ],
+    "summary": "Construit en 1617, c'était l'amphithéâtre de la première académie de médecine — l'ancienne Faculté de Médecine du XVe au XVIIIe siècle. La rotonde caractéristique date du XVIIIe siècle.",
+    "time_period": "1617 / XVe–XVIIIe siècle",
+    "source_link": "",
+    "notion_url": "https://www.notion.so/Amphith-tre-de-la-Premi-re-Acad-mie-de-M-decine-3498324cdc4a811bb3cef2be02651e24"
+  },
+  {
     "id": "39b9b4a4-f44e-47b8-a422-8e914bf90afa",
     "name": "Square Rapp — Art Nouveau street",
     "lat": 48.8587158,
