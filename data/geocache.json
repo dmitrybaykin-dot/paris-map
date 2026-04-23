@@ -510,5 +510,9 @@
   "13 rue de la Bûcherie, Paris 75005": {
     "lat": 48.8519262,
     "lng": 2.3484205
+  },
+  "29 avenue Rapp, 75007 Paris": {
+    "lat": 48.8591265,
+    "lng": 2.300876
   }
 }
