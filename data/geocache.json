@@ -514,5 +514,9 @@
   "29 avenue Rapp, 75007 Paris": {
     "lat": 48.8591265,
     "lng": 2.300876
+  },
+  "20 Boulevard du Temple, 75011 Paris": {
+    "lat": 48.8642662,
+    "lng": 2.3662576
   }
 }
