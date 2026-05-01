@@ -1771,6 +1771,21 @@
     "notion_url": "https://app.notion.com/p/Immeuble-Lavirotte-34b8324cdc4a812e8dcff33f06f4217b"
   },
   {
+    "id": "3538324c-dc4a-8111-88ab-f415a9630c2c",
+    "name": "Salon de Cire de Curtius — где училась Мадам Тюссо",
+    "lat": 48.8642662,
+    "lng": 2.3662576,
+    "address": "20 Boulevard du Temple, 75011 Paris",
+    "type": "Historical event",
+    "tags": [
+      "Marais"
+    ],
+    "summary": "Восковой салон Филиппа Кюртиуса — мастерская, где Мария Гросхольц (будущая Мадам Тюссо) научилась лепить воск с натуры. Сюда 12 июля 1789 года толпа пришла за восковыми бюстами Неккера и герцога Орлеанского — это шествие зажгло первый день Революции. Здесь же Мария после освобождения из тюрьмы делала посмертные маски Людовика XVI, Марии-Антуанетты, Марата, Робеспьера. В 1802 году она увезла коллекцию в Лондон и больше никогда не вернулась во Францию. Сегодня бульвар Тампля — наследие старого «Boulevard du Crime», но дом №20 не сохранился: квартал перестроен при Османе, на месте салона теперь стоят постройки XIX века.",
+    "time_period": "1782–1802",
+    "source_link": "https://parcoursrevolution.paris.fr/en/points-of-interest/118-curtius-and-madame-tussaud",
+    "notion_url": "https://app.notion.com/p/Salon-de-Cire-de-Curtius-3538324cdc4a811188abf415a9630c2c"
+  },
+  {
     "id": "39b9b4a4-f44e-47b8-a422-8e914bf90afa",
     "name": "Square Rapp — Art Nouveau street",
     "lat": 48.8587158,
