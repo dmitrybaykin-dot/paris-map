@@ -518,5 +518,21 @@
   "20 Boulevard du Temple, 75011 Paris": {
     "lat": 48.8642662,
     "lng": 2.3662576
+  },
+  "128 avenue de Saint-Ouen, 75018 Paris": {
+    "lat": 48.8957047,
+    "lng": 2.3285423
+  },
+  "397 ter rue de Vaugirard, 75015 Paris": {
+    "lat": 48.8336266,
+    "lng": 2.2901182
+  },
+  "110 bis rue du Ruisseau, 75018 Paris": {
+    "lat": 48.8965029,
+    "lng": 2.3418186
+  },
+  "29 avenue de la Porte d'Aubervilliers, 75019 Paris": {
+    "lat": 48.9012203,
+    "lng": 2.3698427
   }
 }
