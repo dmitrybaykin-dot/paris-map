@@ -1,5 +1,61 @@
 [
   {
+    "id": "39c8324c-dc4a-8140-b2c6-cf84e39eb205",
+    "name": "Le Hasard Ludique — Ancienne Gare de l'Avenue de Saint-Ouen",
+    "lat": 48.8957047,
+    "lng": 2.3285423,
+    "address": "128 avenue de Saint-Ouen, 75018 Paris",
+    "type": "Curiosity",
+    "tags": [
+      "18e"
+    ],
+    "summary": "Cultural venue in the former Gare de l'avenue de Saint-Ouen station of the Petite Ceinture, opened in 2017: bar, restaurant, concerts, DJ sets, and weekend brunch. Folding chairs on the old platform and terrace directly over the disused tracks. Metro: Porte de Saint-Ouen (L13). IG: @lehasardludique.",
+    "time_period": "1852 (railway), 2017 (venue)",
+    "source_link": "https://www.google.com/maps/place/?q=place_id:ChIJxyu3DNRt5kcRxbCXtlfzjRE",
+    "notion_url": "https://app.notion.com/p/Le-Hasard-Ludique-Ancienne-Gare-de-l-Avenue-de-Saint-Ouen-39c8324cdc4a8140b2c6cf84e39eb205"
+  },
+  {
+    "id": "39c8324c-dc4a-8169-b36a-d0faaa088357",
+    "name": "Voie 15 — Ancienne Gare de Vaugirard",
+    "lat": 48.8336266,
+    "lng": 2.2901182,
+    "address": "397 ter rue de Vaugirard, 75015 Paris",
+    "type": "Curiosity",
+    "tags": [],
+    "summary": "Café-restaurant and coworking space in the former Gare de Vaugirard-Ceinture station on the Petite Ceinture, with a terrace overlooking the overgrown tracks. Access via stairs (or lift) up from rue de Vaugirard — easy to miss from the street. Rare Petite Ceinture venue on the Left Bank. Metro: Convention (L12). IG: @voie15.",
+    "time_period": "1852 (railway)",
+    "source_link": "https://www.google.com/maps/place/?q=place_id:ChIJq8WqBi1x5kcRUK1rDhGQmRY",
+    "notion_url": "https://app.notion.com/p/Voie-15-Ancienne-Gare-de-Vaugirard-39c8324cdc4a8169b36ad0faaa088357"
+  },
+  {
+    "id": "39c8324c-dc4a-816b-8d98-ce76369f806c",
+    "name": "Les Jardins du Ruisseau — Petite Ceinture Garden",
+    "lat": 48.8965029,
+    "lng": 2.3418186,
+    "address": "110 bis rue du Ruisseau, 75018 Paris",
+    "type": "Curiosity",
+    "tags": [
+      "18e"
+    ],
+    "summary": "A shared community garden installed directly on the Petite Ceinture tracks below rue du Ruisseau, run by a local association since the late 1990s — one of the first reclaimed stretches of the abandoned railway. Vegetable plots, beehives, and association events on the old rails. Just across from La REcyclerie (former Gare Ornano). Metro: Porte de Clignancourt (L4).",
+    "time_period": "1852 (railway), late 1990s (garden)",
+    "source_link": "https://www.google.com/maps/place/?q=place_id:ChIJWyq45vVu5kcRS_JzSM9B6qA",
+    "notion_url": "https://app.notion.com/p/Les-Jardins-du-Ruisseau-Petite-Ceinture-Garden-39c8324cdc4a816b8d98ce76369f806c"
+  },
+  {
+    "id": "39c8324c-dc4a-8186-a94e-e2f738b96c4f",
+    "name": "Le Passage à Niveau — Bar on the Rails",
+    "lat": 48.9012203,
+    "lng": 2.3698427,
+    "address": "29 avenue de la Porte d'Aubervilliers, 75019 Paris",
+    "type": "Curiosity",
+    "tags": [],
+    "summary": "Open-air bar at Porte d'Aubervilliers with deckchairs set directly on the Petite Ceinture rails, run together with La Ferme du Rail (urban farm). Outdoor events in season. RER: Rosa Parks (RER E). IG: @lepassageaniveau, @fermedurail. Note: same team also runs a restaurant at 2A rue de l'Ourcq near the canal.",
+    "time_period": "1852 (railway)",
+    "source_link": "",
+    "notion_url": "https://app.notion.com/p/Le-Passage-Niveau-Bar-on-the-Rails-39c8324cdc4a8186a94ee2f738b96c4f"
+  },
+  {
     "id": "3538324c-dc4a-8111-88ab-f415a9630c2c",
     "name": "Salon de Cire de Curtius — где училась Мадам Тюссо",
     "lat": 48.8642662,
